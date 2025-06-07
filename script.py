@@ -17,7 +17,7 @@ file_count = 1
 
 # Cidades desejadas (em minúsculo para comparação segura)
 cidades_desejadas = [
-    "campinas",
+    "Campinas",
 ]
 
 # Baixar o feed XML comprimido
