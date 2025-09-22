@@ -1,41 +1,5 @@
 [
   {
-    "title": "SENIOR QA Engineer Brasil - São Paulo/SP - Remoto",
-    "description": "<p><b>Descrição: </b> A HUNT IT está conduzindo a seleção para uma multinacional de grande porte em busca um(a) profissional “mão na massa” para ser a base da cultura de qualidade no time backend.<br>Você será responsável por testar, automatizar e estruturar processos de QA para APIs e aplicações web em C#, hospedadas em Azure, além de atuar lado a lado com desenvolvedores na disseminação de boas práticas e conceitos de qualidade.<br>Responsabilidades<br>Ser a referência de QA na equipe backend, estruturando processos e ferramentas;<br>Criar e manter casos de teste, planos de teste e testes automatizados;<br>Validar APIs e aplicações web desenvolvidas em C#;<br>Garantir qualidade e estabilidade das entregas com testes de regressão, integração e performance;<br>Implementar automação de testes integrada ao pipeline de CI/CD;<br>Colaborar com desenvolvedores para orientar sobre conceitos e melhores práticas de testes;<br>Participar de refinamentos e definições técnicas para antecipar cenários de teste;<br>Propor melhorias contínuas no processo de desenvolvimento visando qualidade e confiabilidade;<br>Requisitos (Hard Skills)<br>Experiência sólida em testes de APIs REST e Web;<br>Conhecimento em C# (.NET 8) para automação de testes e leitura de código;<br>Vivência em criação e manutenção de suítes de testes automatizados (integração e end-to-end);<br>Domínio de ferramentas como Postman, RestSharp ou equivalentes;<br>Experiência com Azure DevOps (pipelines, boards, repositórios);<br>Experiência com GIT;<br>Conhecimento em DDD;<br>Conhecimento em bancos de dados (SQL) para validação de dados;<br>Entendimento de CI/CD e integração de testes nas pipelines;<br>Habilidade para definir estratégias de teste do zero;<br>Desejável: experiência com serviços Azure (Service Bus, Functions, App Services, Storage).<br>Inglês avançado (conversação e escrita); </p><p><b>Requisitos: </b> </p><p>Nível (Senioridade): Senior.<br></p><p><br><b>Aumente sua renda trabalhando de casa! </b><br>Nós do Nerdin selecionamos os melhores <b>Cursos de TI </b> para você mergulhar em conhecimento e evoluir sua carreira. </p> #J-18808-Ljbffr",
-    "company": "HUNT IT - Recrutamento Especializado para TI",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5631833__1953?utm_source=1953&utm_medium=feed&keyword=SENIOR-QA-Engineer&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Senior DevOps Engineer (GCP/AWS) - Marketing (Latam)",
-    "description": "<p><h3>About Truelogic </h3><p>At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. </p><p>Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. </p><p>By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. </p><h3>Our Client </h3><p>This company consists of product managers, software engineers, testers, and DevOps engineers all working together with the latest tools and technologies. Our vision? To accelerate your marketing vision with a suite of tools designed to drive impact across research, communications, and media. </p><h3>Job Summary </h3><p>This role is responsible for providing the technical direction for the rest of the platform team by implementing and supporting the implementation of new tools that can help maintain and improve the service that the platform team delivers to the rest of HUB. This role is also responsible for ensuring the continuous reliability of our production environment, identifying and addressing potential failures and opportunities for improvement to enhance the availability of all the company\\'s applications. A senior engineer will be \\'tuned in\\' to the wider team, to understand the team\\'s frustrations and any pain points that could be improved to increase the velocity of application updates. Lastly, Senior DevOps Engineers are expected to mentor and support more junior members of the team, helping them to be effective in their role. </p><h3>Responsibilities </h3><ul><li>Implement tools and processes to improve the reliability, security, and efficiency of the ecosystem/platform. </li><li>Working closely with the engineers, understand and eliminate any blockers to maximize engineering throughput. </li><li>Configure, orchestrate, and continuously improve the client\\'s platform. </li><li>Review and enforce platform reliability for all applications entering the ecosystem. </li><li>Improving the visibility of key performance metrics of the SMC platform. </li><li>Training internal users on DevOps processes and tools. </li><li>Providing a 3rd line escalation point for platform engineers in need of assistance. </li><li>Taking part in the out-of-hours on-call rotation. </li><li>Lead large-scale projects that impact stakeholders outside your sphere of influence. </li><li>Working closely with engineers to develop, maintain, and improve the CI/CD process. </li><li>Provide architectural insight and support when needed. </li><li>Strong communicator who adapts to different audiences, proactively shares feedback, and collaborates across teams and regions. </li><li>Supports peer and team development by identifying strengths, coaching informally, and promoting continuous growth. </li><li>Committed to quality, innovation, and process improvement, with a strong sense of ownership and attention to detail. </li><li>Highly adaptable, manages time effectively, embraces change, and drives learning to improve team performance. </li> </ul><h3>Qualifications and Job Requirements </h3><ul><li>A strong working knowledge of container orchestration tools. </li><li>Strong understanding and demonstrable experience of cloud technologies and providers. </li><li>Thorough knowledge of GCP (GKE, Cloud SQL, Networking) and an understanding of AWS (ALB, EC2, VPC, Route53). </li><li>Strong understanding of Continuous Integration / Continuous Delivery (CI/CD). </li><li>Good comprehension of database administration. </li><li>Proficient in at least one scripting language for automation of tasks. </li><li>Solid understanding of network and security principles. </li><li>Strong troubleshooting skills. </li><li>Subject matter expert in all IAC (Infrastructure as code) and configuration management tools used throughout the company. </li> </ul><h3>What We Offer </h3><ul><li>100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a laptop and a reliable internet connection. </li><li>Highly Competitive USD Pay: Earn an excellent, market-leading compensation in USD, that goes beyond typical market offerings. </li><li>Paid Time Off: We value your well-being. Our paid time off policies ensure you have the chance to unwind and recharge when needed. </li><li>Work with Autonomy: Enjoy the freedom to manage your time as long as the work gets done. Focus on results, not the clock. </li><li>Work with Top American Companies: Grow your expertise working on innovative, high-impact projects with Industry-Leading U.S. Companies. </li> </ul><h3>Why You’ll Like Working Here </h3><ul><li>A Culture That Values You: We prioritize well-being and work-life balance, offering engagement activities and fostering dynamic teams to ensure you thrive both personally and professionally. </li><li>Diverse, Global Network: Connect with over 600 professionals in 25+ countries, expand your network, and collaborate with a multicultural team from Latin America. </li><li>Team Up with Skilled Professionals: Join forces with senior talent. All of our team members are seasoned experts, ensuring you\\'re working with the best in your field. </li> </ul><p>Apply now! </p> </p> #J-18808-Ljbffr",
-    "company": "Truelogic Software LLC",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5631841__1953?utm_source=1953&utm_medium=feed&keyword=Senior-DevOps-Engineer&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Especialista em Desenvolvimento de Módulos Shopify",
-    "description": "<p><h3>O que você irá fazer </h3> <ul> <li><p>Desenvolver e manter módulos e apps para Shopify integrados à nossa solução logística. </p> </li> <li><p>Implementar funcionalidades para emissão, compra e gerenciamento de etiquetas de frete (labels). </p> </li> <li><p>Garantir que os módulos sigam as diretrizes e boas práticas da Shopify (Shopify App Bridge, Polaris, REST e GraphQL APIs). </p> </li> <li><p>Criar integrações robustas e seguras com APIs internas e externas (logística, billing, rastreamento). </p> </li> <li><p>Atuar na resolução de bugs, suporte técnico e melhorias contínuas dos módulos. </p> </li> <li><p>Realizar testes (unitários e integrados) e documentar processos e integrações. </p> </li> <li><p>Colaborar com times de backend, produto e UX para alinhar soluções e garantir usabilidade. </p> </li> <li><p>Acompanhar atualizações da Shopify e adaptar os módulos para novas regras e padrões. </p> </li>  </ul> <h3>O que você precisa ter </h3> <ul> <li><p>Experiência comprovada em desenvolvimento de apps/módulos para Shopify. </p> </li> <li><p>Sólidos conhecimentos das APIs Shopify (REST e GraphQL). </p> </li> <li><p>Experiência com Shopify App Bridge, Polaris e Liquid. </p> </li> <li><p>Desenvolvimento com Node.js ou Ruby on Rails (ambiente padrão Shopify). </p> </li> <li><p>Experiência com OAuth 2.0 e autenticação segura. </p> </li> <li><p>Conhecimentos em HTML5, CSS3, JavaScript (ES6+). </p> </li> <li><p>Experiência com Webhooks e event-driven architecture. </p> </li> <li><p>Integrações com APIs externas (REST, JSON). </p> </li> <li><p>Git e versionamento de código. </p> </li> <li><p><b>Soft </b> <b>Skills: </b> </p> <ul> <li><p>Autonomia e capacidade de trabalhar de forma independente. </p> </li> <li><p>Boa comunicação para interagir com áreas técnicas e de negócio. </p> </li> <li><p>Proatividade para propor melhorias e otimizações. </p> </li> <li><p>Organização e foco em entregas dentro do prazo. </p> </li> <li><p>Capacidade de aprender rapidamente novas tecnologias. </p> </li> <li><p>Visão de produto e experiência do usuário. </p> </li>  </ul>  </li>  </ul> <h3>Será um diferencial </h3> <ul> <li><p>Experiência com Shopify Plus. </p> </li> <li><p>Conhecimentos de arquitetura de aplicações escaláveis. </p> </li> <li><p>Experiência com integração de sistemas logísticos ou ERP. </p> </li> <li><p>Conhecimentos em Docker e CI/CD. </p> </li> <li><p>Familiaridade com monitoramento e métricas (ex.: New Relic, Datadog). </p> </li>  </ul> <h3>O que oferecemos </h3> <ul> <li><p>Ambiente inovador, com alta autonomia e espaço para propor ideias. </p> </li> <li><p>Participação em projetos desafiadores e com forte impacto no setor logístico. </p> </li> <li><p>Cultura de colaboração, respeito e desenvolvimento contínuo. </p> </li>  </ul> <p><b>Vaga 100% homeoffice. </b> </p> </p> #J-18808-Ljbffr",
-    "company": "SkydropX Inc.",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5631919__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Desenvolvimento&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Analista Desenvolvedor(a) Outsystems",
-    "description": "<p><p>Nivel de atuação: Especialistas | Área de atuação: Tecnologia, Informatica e Internet | Escolaridade mínima: Superior Completo </p> <h3>Overview </h3> <p>Principais atividades: Estamos contratando Desenvolvedor OutSystems para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. </p> <p>Entendemos que para essa evolução, é necessário. </p> <h3>Responsabilidades </h3> <ul> <li>Atuar de forma autônoma em demandas de baixa e média complexidade, e contribuir em demandas de alta complexidade com orientação ou supervisão de profissionais mais experientes. </li>  </ul> <p>Home Office </p> <p>Interessado? Candidate-se à vaga para dividir essa experiência com você. </p> <h3>Requisitos </h3> <ul> <li>Experiência com o OutSystems </li>  </ul>  </p> #J-18808-Ljbffr",
-    "company": "Innolevels Tecnologia Da Informacao",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5632147__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Desenvolvedor-Outsystems&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
     "title": "Senior Technical Engineer - Senior Cloud Engineer",
     "description": "<p><h3>JOB SUMMARY </h3><p>This job is a strong advocate of cloud technology and engineering support necessary to drive the organization's next-generation technologies. The senior level incumbent works to adopt, expand, maintain, and optimize cloud usage across the organization through engineering support of cloud technologies and through automation builds and related technologies. The incumbent owns support and engineering of cloud solutions and must stay current with new cloud offerings to continue to produce expected corporate results. </p><h3>ESSENTIAL RESPONSIBILITIES </h3><ul><li>Responsible for one or many of the following tasks: analyzing, designing, coding, testing and implementing technical solutions, as well as providing general production monitoring and support, meeting defined scope, target dates and budgets with minimal or no defects. </li><li>Collaborate with stakeholders across IT, product, analytics, and business teams to gather requirements and provide technical solutions that meet organizational needs </li><li>Monitor work against production schedule and provide progress updates and report any issues or technical difficulties to leadership on a regular basis. </li><li>Document technical processes and procedures, and participate in technical reviews and knowledge sharing sessions </li><li>Collaborate on the design and implementation of with architecture to ensure solution alignment to enterprise goals and standards </li><li>Mentor other associate and intermediate technical engineers as needed </li><li>Perform technical analysis and provide insights to support decision-making across various departments </li><li>Stay up-to-date with the latest relevant technologies and industry best practices </li><li>Other duties as assigned or requested. </li> </ul><h3>EXPERIENCE </h3><p><b>Required </b> </p><ul><li>5 years of experiences in one or many of the following tasks: analyzing, designing, coding, testing and implementing technical solutions, as well as providing general production support, meeting defined scope, target dates and budgets with minimal or no defects. </li><li>5 years of technical problem solving, solution implementation, team/project collaboration </li><li>5 years of basic computer science concepts and principles, common operating systems, development languages/scripting </li> </ul><p><b>Preferred </b> </p><ul><li>7 years of experience with technology platforms, application development tools, business processes, software development life cycle used by our enterprise </li><li>7 years of experience defining system architectures and exploring technical feasibility trade-offs for optimizing short term execution while planning for long term technical capabilities </li><li>7 years of experience working with a variety of technology systems, designing solutions or developing technology solutions in healthcare </li><li>7 years of cloud platforms (AWS, Azure, GCP) and their respective services </li><li>7 years of technical governance, quality, and technical security best practices </li><li>7 years of experience translating requirements, design mockups, prototypes or user stories into technical designs </li><li>7 years producing technical solutions that are fault-tolerant, efficient, and maintainable </li><li>Experience designing, building, and deploying scalable cloud-based solution architectures through automation tools like Terraform or Ansible for example and versioning control via GitLab or similar tools. </li> </ul><h3>SKILLS </h3><ul><li>Demonstrated ability to achieve stretch goals in a highly innovative and fast-paced environment </li><li>Adaptability: Ability to take on diverse tasks and projects, adapting to the evolving needs of the organization </li><li>Analytical Thinking: Strong analytical skills with a focus on detail and accuracy </li><li>Interest and ability to learn other technologies as needed </li><li>Technical Proficiency: Comfortable with a range of data tools and technologies, with a willingness to learn new skills as needed </li><li>Strong track record in designing, implementing, and/or supporting large-scale technical solutions </li><li>Strong sense of ownership, urgency, and drive </li><li>Demonstrated passion for user experience and improving usability </li><li>Team Collaboration: A team player who can work effectively in cross-functional environments </li><li>Experience and willingness to mentor junior technical engineers and help develop their skills and leadership </li> </ul><p><b>Preferred Skills: </b> </p><ul><li>Strong scripting experience along with interest and ability to learn other programming languages as needed. </li><li>Gitlab or other versioning control tools and processes. </li><li>Kubernetes or other Container orchestration technologies </li><li>Terraform, Ansible, or other automation technologies </li> </ul><h3>EDUCATION </h3><p><b>Required </b> </p><ul><li>Bachelor’s degree in Computer Science, Information Systems, Computer Engineering or related field. </li> </ul><p><b>Preferred </b> </p><ul><li>Master's degree in Computer Science, Information Systems, Computer Engineering or related field. </li><li>Bachelor's Degree Cloud Computing, Computer & Information Science, Computer Engineering, Information Systems, Information Technology, or closely related discipline </li> </ul><h3>LICENSES or CERTIFICATIONS </h3><p><b>Required </b> </p><ul><li>None </li> </ul><p><b>Preferred </b> </p><ul><li>GCP, AWS, Azure or other Cloud Service Certification </li><li>Terraform, Ansible or other, similar tool certification </li> </ul><h3>Language (Other than English): </h3><p>None </p><h3>Travel Requirement: </h3><p>0% - 25% </p><h3>PHYSICAL, MENTAL DEMANDS and WORKING CONDITIONS </h3><p><b>Position Type </b> Office- or Remote-based </p><p>Teaches / trains others </p><p>Occasionally Travel from the office to various work sites or from site-to-site </p><p>Rarely Works primarily out-of-the office selling products/services (sales employees) </p><p>Never Physical work site required </p><p>No Lifting: up to 10 pounds </p><p>Constantly Lifting: 10 to 25 pounds </p><p>Occasionally Lifting: 25 to 50 pounds </p><p>Rarely </p><p><b>Disclaimer: </b> The job description has been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job. </p><p><br/>Compliance Requirement: This job adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies. </p><p>As a component of job responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all times. In connection with this, all employees must comply with HIPAA as described in the Privacy Practices and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy Policies and Practices and Information Security Policy. </p><p>Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training requirements. </p><p><b>Pay Range Minimum: </b> </p><p>$78,900.00 </p><p><b>Pay Range Maximum: </b> </p><p>$147,500.00 </p><p>Base pay is determined by a variety of factors including a candidate’s qualifications, experience, and expected contributions, as well as internal peer equity, market, and business considerations. The displayed salary range does not reflect any geographic differential Highmark may apply for certain locations based upon comparative markets. </p><p>Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or local law. </p><p>We endeavor to make this site accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact the email below. </p><p>For accommodation requests, please contact HR Services Online at   </p><p>California Consumer Privacy Act Employees, Contractors, and Applicants Notice </p> </p> #J-18808-Ljbffr",
     "company": "Highmark Health",
@@ -599,7 +563,7 @@
     "company": "Relevo - Carreiras",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5636978__1953_9f1dba115a44d8aaacd107e4959f3f70?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5636978__1953_c7f1448c169232ec72a97847d7c1c718?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1121,7 +1085,7 @@
     "company": "FullStack Labs",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5641450__1953_d1fb2b4a6bb53c7afb361b61f676d789?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Java-Angular&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5641450__1953_a8ca3bb896691bb4bfe9b48f625fc0f2?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Java-Angular&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1130,7 +1094,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5641479__1953_f0799c528a8a39e520a0bafbe4a3c52a?utm_source=1953&utm_medium=feed&keyword=System-Software-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5641479__1953_5f541f362d1c9fe9a791856569a9e411?utm_source=1953&utm_medium=feed&keyword=System-Software-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1211,7 +1175,7 @@
     "company": "Nexer Telescope",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5642310__1953_e3924653bbe08c32d7c885c3ec56c793?utm_source=1953&utm_medium=feed&keyword=Experienced-Recruiter-For&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5642310__1953_2f1a166e1550a84cffb09ae101589f69?utm_source=1953&utm_medium=feed&keyword=Experienced-Recruiter-For&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1220,7 +1184,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5642325__1953_420daa3d30687f1c1d694ee99fbf99de?utm_source=1953&utm_medium=feed&keyword=SalesForce-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5642325__1953_949b2820f41ece89cbb743eb279a1f96?utm_source=1953&utm_medium=feed&keyword=SalesForce-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1346,7 +1310,7 @@
     "company": "Time comercial MAG",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5643417__1953_215636be48bc9d53ee4a931935541652?utm_source=1953&utm_medium=feed&keyword=Banco_de_Talentos_Nacional-Gerente-Comercial&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5643417__1953_f899ac42abfad2d8901fe8e5cda4ee33?utm_source=1953&utm_medium=feed&keyword=Banco_de_Talentos_Nacional-Gerente-Comercial&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1454,7 +1418,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5644487__1953_2db1b31a7dbc339f30d5fc572857e4ed?utm_source=1953&utm_medium=feed&keyword=Graduate-Customer-Success&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5644487__1953_b1860ab34a56f92544624164ab74f6da?utm_source=1953&utm_medium=feed&keyword=Graduate-Customer-Success&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2129,7 +2093,7 @@
     "company": "Autorn Engenharia Ltda.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5649583__1953_2c07a8efba29d10fd3a0ed2187ce9628?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5649583__1953_d37c14475feb9a882198a84b42789396?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2138,7 +2102,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5649597__1953_89051ad682fca474ac02f849f6bb6896?utm_source=1953&utm_medium=feed&keyword=Security-Software-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5649597__1953_61df63662ee6bbccfe43103a91dddc6b?utm_source=1953&utm_medium=feed&keyword=Security-Software-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2282,7 +2246,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5651131__1953_c330c929fd5556fc3fed28533c37e0bc?utm_source=1953&utm_medium=feed&keyword=Front-End-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5651131__1953_b14415abd9b1ded238c326d2cc592eb5?utm_source=1953&utm_medium=feed&keyword=Front-End-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2291,7 +2255,7 @@
     "company": "ANI - Sistemas de Gestão",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5651141__1953_3ae60ade5a92c0e741bda83d08dbcde0?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5651141__1953_28a805cddaeea3316550ea8140e41baf?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2552,7 +2516,7 @@
     "company": "Involves",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5653768__1953_3faa3041422ba959b69fd4806cddba96?utm_source=1953&utm_medium=feed&keyword=SalesForce-Developer-Remote&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5653768__1953_bc4cd940e99c41e21ec08e495509256d?utm_source=1953&utm_medium=feed&keyword=SalesForce-Developer-Remote&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2561,7 +2525,7 @@
     "company": "RINA Piraeus Team",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5653769__1953_db2c65154bbd8472f961ed4a1b600689?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Mec%C3%A2nico-Movimenta%C3%A7%C3%A3o&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5653769__1953_05aa97de9fb1aa6be8420a3bfa2e24a6?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Mec%C3%A2nico-Movimenta%C3%A7%C3%A3o&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2705,7 +2669,7 @@
     "company": "ANI - Sistemas de Gestão",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5655341__1953_ec8cb5ba7428ccd306808e939264d2a9?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5655341__1953_b62adca86ee114876a7d481595a9b542?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3146,7 +3110,7 @@
     "company": "NTT DATA, Inc.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5658424__1953_98849ce478a5fcae71861edf7213a3b1?utm_source=1953&utm_medium=feed&keyword=Software-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5658424__1953_c3e716a27b7752abc10591eade94cd09?utm_source=1953&utm_medium=feed&keyword=Software-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3281,7 +3245,7 @@
     "company": "buscojobs Brasil",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5659262__1953_e468c0da03c12dec256f0949cc6978e4?utm_source=1953&utm_medium=feed&keyword=Desenvolvedora-De-Back-End&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5659262__1953_a787e80b4a37fc6e6317aa415f624c90?utm_source=1953&utm_medium=feed&keyword=Desenvolvedora-De-Back-End&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3407,7 +3371,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5660098__1953_0a830bda08f105001bbb6d9c6e13fca8?utm_source=1953&utm_medium=feed&keyword=UI-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5660098__1953_76e9f7f05e4f1bb1057866c3cf8db471?utm_source=1953&utm_medium=feed&keyword=UI-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3857,7 +3821,7 @@
     "company": "DBServices Portugal",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5663119__1953_3f9670c22b16603d92e61c26f42c96d7?utm_source=1953&utm_medium=feed&keyword=Senior-Android-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5663119__1953_8641f035efdf9079227a407ddabf2f06?utm_source=1953&utm_medium=feed&keyword=Senior-Android-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3938,7 +3902,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5663735__1953_ca33749a9c0b0b52c20d0577a91078b3?utm_source=1953&utm_medium=feed&keyword=Enterprise-Customer-Success&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5663735__1953_6dcc417d9e688a6eebf1026355d404bc?utm_source=1953&utm_medium=feed&keyword=Enterprise-Customer-Success&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4001,7 +3965,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5664536__1953_5330a9e1cf705586e58e29343edea759?utm_source=1953&utm_medium=feed&keyword=React-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5664536__1953_a28d2988edfd4e5a059ea0222ce77a88?utm_source=1953&utm_medium=feed&keyword=React-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4262,7 +4226,7 @@
     "company": "Trilogy",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5667169__1953_b9fc9f13dab426626a009594237087d4?utm_source=1953&utm_medium=feed&keyword=Principal-Product-Manager&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5667169__1953_401dbd6b2ebcab58051b289e89024fb0?utm_source=1953&utm_medium=feed&keyword=Principal-Product-Manager&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5549,7 +5513,7 @@
     "company": "Oppizi",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5678444__1953_d5be423623884f81d8372575649edfe7?utm_source=1953&utm_medium=feed&keyword=Senior-QA-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5678444__1953_6566c8ac85ce8d74002fabdbecf5d3af?utm_source=1953&utm_medium=feed&keyword=Senior-QA-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5558,7 +5522,7 @@
     "company": "Nearsure",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5678448__1953_461ef53316ac52865848c8972126c886?utm_source=1953&utm_medium=feed&keyword=AI-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5678448__1953_ee286a9b5b37fcf4d6160d05249856ca?utm_source=1953&utm_medium=feed&keyword=AI-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5738,7 +5702,7 @@
     "company": "Wellhub Inc.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5679696__1953_f7aeea13c3b59ba20375b6473b380f36?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5679696__1953_e934a4a7c432c2a803a8f9ebf42283b7?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5747,7 +5711,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5679712__1953_dd8e4cf80eabd30898e453c1418b63ca?utm_source=1953&utm_medium=feed&keyword=Semi-Senior-React&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5679712__1953_bb200abb8af5d9cbc4aeba94e9f94b8d?utm_source=1953&utm_medium=feed&keyword=Semi-Senior-React&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6062,7 +6026,7 @@
     "company": "FullStack Labs",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5681773__1953_14827fb45ab4ff4ddb12399ae3491a55?utm_source=1953&utm_medium=feed&keyword=Python-Engineering-Team&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5681773__1953_0a28fa50fc50fa20faf4669798b72502?utm_source=1953&utm_medium=feed&keyword=Python-Engineering-Team&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6764,7 +6728,7 @@
     "company": "ANI - Sistemas de Gestão",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5687213__1953_4e1a515011a2b7f7e6b1b108aaa8a537?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5687213__1953_21a7c3522381bcc2f21a05fadedb7883?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6971,7 +6935,7 @@
     "company": "ANI - Sistemas de Gestão",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5689917__1953_035e81912512c1567f20ddbd61a8bb14?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5689917__1953_d0505ccbac52476cf8c9138e35d7df68?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7133,7 +7097,7 @@
     "company": "Workana",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5692303__1953_b059e5f871245dc17e0894e8d095664a?utm_source=1953&utm_medium=feed&keyword=Senior-Ruby-on&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5692303__1953_33f6f7956040049cd841f7a0d84976e2?utm_source=1953&utm_medium=feed&keyword=Senior-Ruby-on&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7862,7 +7826,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5698981__1953_166c0b8b909e2732c85ac79b76e257da?utm_source=1953&utm_medium=feed&keyword=Cloud-Engineering-Manager&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5698981__1953_0ababc7ed47f9f5999aa0829fccfb670?utm_source=1953&utm_medium=feed&keyword=Cloud-Engineering-Manager&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8132,7 +8096,7 @@
     "company": "DaCodes.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5701616__1953_4dceb247f10b5e8d60bdd64dfc9570cc?utm_source=1953&utm_medium=feed&keyword=SAP-EDI-Consultant&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5701616__1953_b822cbd0d8d4ed800bea7736ad74e725?utm_source=1953&utm_medium=feed&keyword=SAP-EDI-Consultant&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8384,7 +8348,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5702979__1953_4cda1dd922a70138f6b0f84f8a93729d?utm_source=1953&utm_medium=feed&keyword=Python-and-Kubernetes&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5702979__1953_fa7ffc58e69b1b9e09818908114fb39d?utm_source=1953&utm_medium=feed&keyword=Python-and-Kubernetes&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8879,7 +8843,7 @@
     "company": "HCLTech",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5716486__1953_530da79347944c75b87b96a0db3501c1?utm_source=1953&utm_medium=feed&keyword=SAP-Treasury&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5716486__1953_5c77cb01b15730307a2a7d6379e3fa6f?utm_source=1953&utm_medium=feed&keyword=SAP-Treasury&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8997,6 +8961,42 @@
     "city": "Campinas",
     "state": "São Paulo",
     "url": "https://br.whatjobs.com/coopob__cpl___70_5718662__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-Em-Infraestrutura&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Especialista Em Infraestrutura",
+    "description": "<p><h3>Overview </h3><p>A PSM Company é especializada na identificação de Talentos para as áreas de TI / Telecom como também para as áreas operacionais e administrativas. Nossa história de sucesso está baseada em nosso modelo de negócios que proporcionam assertividade e qualidade no processo seletivo, baixo Turn Over e isenção de riscos e passivos trabalhistas. </p><h3>O que Buscamos </h3><p>Especialista de Infraestrutura / SCOM, Windows Server </p><h3>Requisitos / Habilidades </h3><ul><li>Conhecimento para Azure Infra </li><li>Redes (on-prem e Azure) </li><li>Windows Server </li><li>File Server </li><li>Azure Files </li><li>Cluster </li><li>Azure Storage </li><li>Azure Monitor (linguagem KUSTO) </li><li>Active Directory / Microsoft ENTRA </li><li>Conhecimento em Redes é muito importante </li><li>Conhecimentos nas tecnologias abaixo: </li><li>System Center Operations Manager </li><li>System Center Orchestrator </li><li>System Center Data Protection Manager </li><li>Inglês: avançado / fluente </li><li>Conhecimento e habilidade para o desenvolvimento de scripts PowerShell </li> </ul><h3>Tipo de contratação </h3><p>Contratação CLT </p><h3>Modalidade </h3><p>Home office + benefícios </p><h3>O que oferecemos </h3><ul><li>Vale Refeição </li><li>Assistência Médica e Assistência Odontológica </li><li>Auxílio creche </li><li>Convênio com Farmácia </li><li>Parcerias com Universidades e Escolas de Idiomas </li><li>Parceria de descontos com Seguro Auto e Residência </li><li>Gympass </li><li><b>Seguro de Vida </b> </li> </ul><p>O seu interesse em participar deste processo seletivo, automaticamente consente, autoriza e concorda que a PSM COMPANY, no papel de CONTROLADORA, tome decisões referentes ao tratamento de seus dados pessoais para esta finalidade específica, em conformidade com a Lei nº 13.709 – Lei Geral de Proteção de Dados Pessoais (LGPD). </p> </p> #J-18808-Ljbffr",
+    "company": "buscojobs Brasil",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5718664__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-Em-Infraestrutura&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Supervisor de Treinamento Automotivo Pós-Vendas",
+    "description": "<h3>Job description </h3><p>Vaga para o time de Pós-Vendas Automotivo. </p><p>Buscamos pessoas que assim como a gente, sejam inovadoras, práticas, objetivas, tenham paixão pelo que fazem e visem a excelência. Então, você se encaixa neste perfil? </p><br><h3>Main responsibilities </h3><p>Responsável pela análise das necessidades de treinamento do sistema de serviço pós-venda (manutenção técnica, atendimento ao cliente, gerenciamento de peças, etc.) e desenvolvimento de planos e orçamentos anuais de treinamento. </p><p>Estabelecimento de um sistema de currículo de treinamento hierárquico e específico para cada função (integração de novos funcionários, treinamento de certificação técnica, treinamento de certificação de serviço). </p><p>Desenvolvimento e implementação de cursos e desenvolvimento de materiais de treinamento pós-venda (incluindo cursos digitais, manuais práticos, bibliotecas de casos), integrando a documentação técnica do OEM e os padrões de serviço da marca. </p><p>Coordenação de recursos internos e externos para organizar programas de treinamento online (cursos ao vivo/gravados) e off-line (treinamento no local do revendedor, workshops técnicos). </p><p>Projetar mecanismos de avaliação de treinamento (testes teóricos, avaliações práticas, pesquisas de satisfação), acompanhar os resultados de aprimoramento de habilidades dos trainees e gerar relatórios de melhoria. </p><p>Construir um banco de dados de registros de treinamento, analisar o ROI (retorno sobre o investimento) do treinamento e otimizar a alocação de recursos. </p><p>Colaborar com os departamentos Técnico, de Qualidade e de Relações com o Cliente para alinhar o conteúdo do treinamento com as atualizações de tecnologia do produto e as políticas de serviço pós-venda, garantindo a relevância para as necessidades do negócio. </p><p>Gerenciar agências de treinamento externas e recursos de instrutores, garantindo a qualidade da colaboração e o controle de custos. </p><br><h3>Requirements and skills </h3><p>Ensino Superior Completo em Engenharia Automotiva, Mecatrônica, Elétrica ou áreas correlatas. </p><p>Nível de Inglês Avançado para conversação. </p><p>Experiência profissional na área automotiva. </p><p>Experiência com gestão de pessoas. </p><p>Experiência profissional com treinamentos de produtos automotivos e liderança de projetos. </p><p>Conhecimentos em Excel e pacote Office. </p><br><h3>Additional information </h3><p>Aqui na BYD priorizamos o bem-estar de nossos colaboradores e estamos em busca constante de melhorias para o nosso pacote de benefícios. Seu pacote vai contar com: </p><ul><li>Convênio médico e odontológico coparticipativo para você e seus dependentes; </li><li>Programas de saúde e bem-estar para a melhoria da sua qualidade de vida; </li><li>Cartão Golden Farma para compras em farmácias cadastradas com desconto diretamente em folha, valendo tanto para medicamentos como para itens de higiene e beleza; </li><li>Gympass para cuidar da sua saúde física e mental; </li><li>Restaurante na planta para nossas unidades de Campinas, com opções de café da manhã, almoço, jantar e ceia, tudo de qualidade e com foco na saúde; </li><li>Vale Alimentação para te ajudar nas compras do mês; </li><li>Vale Refeição; </li><li>Vale combustível; </li><li>Vale Transporte ou estacionamento na empresa; </li><li>Trabalhamos com horário flexível, para melhor organização da sua vida pessoal; </li><li>Licença maternidade de 6 meses e licença paternidade de 20 dias, além de um Kit Maternidade para o seu bebê; </li><li>Seguro de vida coletivo Porto Seguro, sem desconto em folha; </li><li>Auxílio creche para dependentes até 2 anos, conforme regras de elegibilidade. </li> </ul><br>#J-18808-Ljbffr",
+    "company": "BYD Brasil",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5718999__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Treinamento&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Gerente de desenvolvimento de negocios em tecnologia",
+    "description": "<p><p>Resumo </p> <p>Atuar na área comercial voltada ao setor privado, com foco em parcerias estratégicas; expandir a carteira de clientes corporativos, apresentando soluções completas de TI; reportar-se diretamente ao Diretor Geral do Sudeste; realizar a prospecção de canais e fomentar novas oportunidades de negócio; atuar na qualificação das oportunidades e propostas comerciais; realizar treinamentos dos produtos e soluções junto aos clientes; acompanhar o plano de negócios junto aos clientes e parceiros; realizar visitas externas em clientes, participação em eventos e feiras de fabricantes e parceiros; demais rotinas da área. </p> <h3>Requisitos </h3> <ul> <li>Experiência sênior em vendas estratégicas de soluções de TI para grandes contas corporativas, com histórico de contratos de alto valor e foco em expansão de carteira; </li> <li>Domínio comercial de tecnologias como: Infraestrutura corporativa (on-premises e cloud); Plataformas ServiceNow; Soluções IBM (integração, automação e analytics); RedHat (middleware, open source enterprise); Fortinet (cibersegurança e redes); Integração de soluções de TI end-to-end; Desenvolvimento low code; </li> <li>Capacidade de articular propostas executivas baseadas nessas tecnologias, conectando benefícios técnicos a objetivos de negócio do cliente; </li> <li>Vivência na construção de parcerias estratégicas e relacionamento em nível C-Level (Diretores, CIOs e VPs de Tecnologia e Negócios); </li> <li>Conhecimento do mercado privado para identificar oportunidades, mapear demandas e criar estratégias de entrada e expansão; </li> <li>Familiaridade com tendências emergentes como low-code/no-code e fábrica de software, garantindo visão atualizada para transformação digital; </li> <li>Liderança em ciclos de vendas complexos, conduzindo negociações consultivas e de longo prazo; </li> <li>Inglês desejável. </li>  </ul> <h3>Benefícios </h3> <ul> <li>20 dias remunerados por ano; </li> <li>Comissionamento por fechamento com percentual variável. </li>  </ul> <p>Contratação: PJ </p> <p>Prazo: Indeterminado </p> <p>Local: Home Office </p> <h3>Seniority level </h3> <ul> <li>Mid-Senior level </li>  </ul> <h3>Employment type </h3> <ul> <li>Full-time </li>  </ul> <h3>Job function </h3> <ul> <li>Sales and Business Development </li>  </ul> <h3>Industries </h3> <ul> <li>Human Resources Services </li>  </ul>  </p> #J-18808-Ljbffr",
+    "company": "Netvagas",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5719058__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-desenvolvimento&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Endocrinologista",
+    "description": "<p><h3>Overview </h3><p>Galileu Jaboatão dos Guararapes, Pernambuco, Brazil </p><p>ENDOCRINOLOGISTA, venha construir a nova saúde digital com a Galileu! A saúde está evoluindo e a Galileu Saúde está liderando essa mudança. Unimos tecnologia e cuidado humano para oferecer uma experiência de saúde mais acessível, eficiente e centrada no paciente. Se você é ENDOCRINOLOGISTA e acredita na inovação na medicina, temos um espaço para você. </p><h3>O que oferecemos </h3><ul><li>Modelo de teleconsulta, com agenda organizada de forma combinada para garantir qualidade no atendimento. </li><li>Remuneração por hora trabalhada, de forma transparente e alinhada à sua produção. </li><li>Ambiente multidisciplinar para oferecer o melhor cuidado ao paciente. </li><li>Capacitação exclusiva em saúde digital, com uma plataforma completa de cursos que abrange desde protocolos clínicos até o uso de ferramentas tecnológicas, ajudando você a ser mais efetivo no cuidado com o paciente. </li><li>Acompanhamento e suporte contínuo, para que você possa focar no que realmente importa: o cuidado com o paciente. </li> </ul><p>Na Galileu, acreditamos que a tecnologia deve potencializar o cuidado médico e fortalecer a conexão entre profissionais e pacientes. Por isso, investimos em inovação, capacitação e um ambiente colaborativo, garantindo que você tenha tudo o que precisa para exercer a medicina digital com excelência e impacto real. </p><h3>Convite </h3><p>Se você quer fazer parte do futuro da saúde, venha para a Galileu! </p><p><b>Envie Seu Currículo </b> </p><ul><li>WhatsApp:   </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Galileu",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5719063__1953?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Campinas&geoID=1713",
     "tipo": ""
   }
 ]
