@@ -1,5 +1,14 @@
 [
   {
+    "title": "Arquiteto de Dados (Remoto)",
+    "description": "<p><h3>Papel na empresa: </h3><p>O Arquiteto de Dados será responsável por desenhar, evoluir e sustentar a arquitetura de dados em ambientes complexos e de grande porte, garantindo escalabilidade, segurança e governança. Atuará como ponto de referência técnico para times multidisciplinares, propondo soluções modernas em nuvem (AWS e Databricks) e promovendo integração eficiente entre sistemas corporativos e de manufatura. Além de forte visão técnica, espera-se postura consultiva, capacidade de comunicação e habilidade para transformar necessidades de negócio em soluções de dados consistentes, resilientes e inovadoras. </p><h3>Responsabilidades: </h3><p>Atuar na definição e evolução da arquitetura de dados em ambiente de larga escala e alta complexidade.<br/>Liderar iniciativas de integração, governança e segurança de dados, garantindo escalabilidade e conformidade regulatória.<br/>Propor soluções técnicas e arquiteturais para diferentes áreas do negócio, sempre com foco no melhor resultado para a empresa.<br/>Trabalhar em colaboração com times multidisciplinares, apoiando desde a fase de concepção até a entrega de projetos estratégicos.<br/>Orientar e apoiar a adoção de boas práticas em engenharia de dados, programação, performance, uso de ferramentas de analytics e soluções com responsabilidade de custo. </p><h3>O que esperamos do profissional: </h3><p>Capacidade de comunicação clara e assertiva, com perfil argumentativo para defender propostas de solução.<br/>Habilidade para ouvir e considerar diferentes pontos de vista, equilibrando opiniões divergentes e direcionando para o melhor resultado de negócio.<br/>Facilidade para atuar em ambientes complexos e desafiadores, especialmente em contextos ligados à manufatura.<br/>Inglês técnico para leitura e compreensão de artigos, documentação e boas práticas globais. </p><h3>Requisitos técnicos (Hard Skills): </h3><p>Domínio avançado em AWS (arquitetura, segurança, serviços de dados, governança).<br/>Experiência avançada com Databricks, incluindo arquitetura de clusters (job clusters, all-purpose clusters, liquid clusters para workloads dinâmicos).<br/>Unity Catalog para governança e segurança unificada de dados e metadados.<br/>Delta Lake para implementação de Lakehouse, otimização de performance e confiabilidade de pipelines.<br/>Forte conhecimento em segurança de dados e governança.<br/>Programação em Python com boas práticas de desenvolvimento.<br/>Experiência com integração de dados e ferramentas de replicação como Qlik Replicate (diferencial).<br/>Conhecimento em orquestradores de dados, com destaque para Control-M (diferencial), além de ferramentas modernas como Airflow, MWAA, Step Functions ou similares.<br/>Capacidade de estimar custo de arquiteturas e propor soluções de otimização financeira em ambientes distribuídos.<br/>Conhecimento de Data Mesh.<br/>Implementação de Data Observability: monitoramento de qualidade, latência e confiabilidade dos dados (Monte Carlo, Datadog, OpenTelemetry ou soluções nativas da AWS).<br/>Experiência com alertas e logging centralizado para pipelines distribuídos.<br/>Experiência com CI/CD aplicado a pipelines de dados (GitHub Actions, GitLab CI, Jenkins, Azure DevOps).<br/>Conhecimento em Infra as Code (IaC) para provisionamento de ambientes de dados (Terraform, CloudFormation, CDK).<br/>Visão estratégica sobre IA generativa e Machine Learning aplicados ao negócio. </p><h3>Certificações desejáveis: </h3><p>AWS e/ou Databricks Associate/Professional. </p><h3>Incentivos que importam: </h3><p>Cuidamos de quem cuida dos nossos dados </p><ul><li><b>Auxílio médico </b>: ajuda de custo mensal para apoiar na contratação do seu plano de saúde. </li><li><b>Wellhub </b>, pra manter corpo e mente ativos, do jeito que você gosta. </li><li><b>Terapia online 100% custeada pela empresa </b>, porque saúde mental importa. </li><li><b>Atendimento em Nutrição online </b>, com até 2 consultas mensais para cuidar da sua saúde alimentar. </li><li><b>Seguro de vida </b> com apólice no valor de R$125 mil, garantindo mais segurança para você e sua família. </li><li><b>Day off no aniversário </b>, porque o seu dia merece ser especial. </li><li><b>Descanso remunerado </b>, para que você possa recarregar as energias. </li><li><b>Gamificação interna </b>, transformando conquistas em prêmios e reconhecimento. </li><li><b>Parcerias educacionais </b> com faculdades como <b>FIAP, Anhanguera </b> e <b>Instituto Infnet </b>, pra apoiar seu crescimento e aprendizado. </li><li><b>Bônus por certificação técnica </b>, reconhecendo e recompensando seu esforço em aprender. </li> </ul><p><b>Atuação remota. </b> Valorizamos cada voz e cada pessoa, porque sabemos que a diversidade nos torna mais inovadores e fortes. </p> </p> #J-18808-Ljbffr",
+    "company": "Dataside",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5410247__1953?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Dados&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
     "title": "Laravel Developer + React - Remote, Latin America",
     "description": "<p><h3>Overview </h3><p>Bluelight Consulting is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives. With a steadfast commitment to delivering exceptional service to our clients, Bluelight excels in its focus on quality and customer satisfaction. Our mission is to foster a collaborative and enriching work environment where each team member can grow and thrive. We have a presence across the United States and Central/South America and are expanding our talented team. </p><p>We are looking for a skilled Laravel Developer + React to join our rapidly growing team. This position is ideal for someone who thrives in a fast-paced, dynamic environment where opinions and efforts are valued and appreciated. You will contribute to challenging and meaningful projects, developing high-quality applications that stand out in the market. </p><h3>Responsibilities </h3><ul><li>Contribute to the design, development, and maintenance of web applications using Laravel (8+) and React (or similar frontend frameworks). </li><li>Implement Eloquent ORM, Laravel Authentication, and Laravel Query Builder. </li><li>Work with testing tools (Pest PHP, PHPUnit, Laravel Dusk, Playwright) and ensure code quality. </li><li>Utilize Inertia.js and RESTful APIs in Laravel to build seamless frontend-backend integrations. </li><li>Collaborate on frontend development with technologies such as React, Vue.js, Laravel Livewire, and Tailwind CSS. </li><li>Take ownership of work, meet estimates, and align with team expectations and client goals. </li><li>Maintain a positive mindset, strong attention to detail, and a solution-focused approach. </li> </ul><h3>Qualifications </h3><ul><li>4+ years of experience with Laravel, specifically Laravel 8 and above. </li><li>Experience with Eloquent ORM, Laravel Authentication, Laravel Query Builder. </li><li>Experience with testing tools, such as Pest PHP, PHPUnit, Laravel Dusk, Playwright. </li><li>Experience with Inertia.js and RESTful API in Laravel. </li><li>Experience with frontend development (React, Vue.js, Laravel Livewire, etc). </li><li>Bonus points if you have experience with Tailwind CSS. </li><li>Ability to take extreme ownership over your work and deliver on commitments. </li><li>Ability to align with Bluelight's clients' goals and deliver on team commitments. </li><li>A positive mindset and a can-do attitude. </li><li>Forensic attention to detail. </li> </ul><h3>Benefits </h3><ul><li>Competitive salary and bonuses, including performance-based salary increases. </li><li>Generous paid-time-off policy </li><li>Flexible working hours </li><li>Work remotely </li><li>Continuing education, training, conferences </li><li>Company-sponsored coursework, exams, and certifications </li> </ul><h3>Job Details </h3><ul><li>Seniority level: Mid-Senior level </li><li>Employment type: Full-time </li><li>Job function: Engineering and Information Technology </li><li>Industries: Software Development </li> </ul><p>Being a consultant in our team is a fun, challenging, and rewarding career choice. Your contributions are highly valued by clients, and the work you do often has a direct and significant impact on their business. You will have the opportunity to work on a variety of projects for our clients, collaborating with modern technologies and industry professionals. If you’re eager to be part of an exciting, challenging, and rapidly growing consultancy, we encourage you to apply. </p> </p> #J-18808-Ljbffr",
     "company": "Bluelight",
@@ -32,7 +41,7 @@
     "company": "Bitso",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5410430__1953_9194be4f20605154f10607fb3e0a09e4?utm_source=1953&utm_medium=feed&keyword=Accounts-Payable-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5410430__1953_86fa26b44f3d0b6603bdeb97bd4d677a?utm_source=1953&utm_medium=feed&keyword=Accounts-Payable-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -122,7 +131,7 @@
     "company": "SecurityScorecard",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5411175__1953_8dd429b54daf576fd7dbe57f20cc721b?utm_source=1953&utm_medium=feed&keyword=Senior-Staff-Data&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5411175__1953_24cf2ff34614611f2ad3b9a977e64fc6?utm_source=1953&utm_medium=feed&keyword=Senior-Staff-Data&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -464,7 +473,7 @@
     "company": "Hikvision",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5414466__1953_acb37f2478bab106b84c65cd0723da6c?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5414466__1953_b4084767b6cd4f016b54b3986ff20d15?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -788,7 +797,7 @@
     "company": "Clicksign",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5417148__1953_84336d3e79014d342545c5db9a5cc153?utm_source=1953&utm_medium=feed&keyword=Quality-Assurance-Integra%C3%A7%C3%B5es&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5417148__1953_01f5b982de72775728b39db886e87406?utm_source=1953&utm_medium=feed&keyword=Quality-Assurance-Integra%C3%A7%C3%B5es&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1139,7 +1148,7 @@
     "company": "CB Marketing Boutique",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5419272__1953_9bb83057412867bc274ad70409d5e807?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5419272__1953_4cdf9720685d083c0f460b45d4a78f5f?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1949,7 +1958,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5426071__1953_3aa8fc87bee35c7c6d0676dc9b54b28e?utm_source=1953&utm_medium=feed&keyword=Data-Scientist-Senior&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5426071__1953_3a73b4bbd18c9df9b404a861f024b39e?utm_source=1953&utm_medium=feed&keyword=Data-Scientist-Senior&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2156,7 +2165,7 @@
     "company": "Coins.ph",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5427681__1953_38e76cefeb03afaf8129516c4dee33b7?utm_source=1953&utm_medium=feed&keyword=CRM-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5427681__1953_d3bb9f14a2da5e1ed7d6f075d504cb6d?utm_source=1953&utm_medium=feed&keyword=CRM-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2471,7 +2480,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5430440__1953_0590cab64e664d447bfa49687f2f09e6?utm_source=1953&utm_medium=feed&keyword=Junior-Linux-Kernel&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5430440__1953_c8e9801f4f00ae285131211e705e7fff?utm_source=1953&utm_medium=feed&keyword=Junior-Linux-Kernel&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2759,7 +2768,7 @@
     "company": "RemoteVA",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5434058__1953_c9b9bb30969938ce4d5d7aa7fabd705c?utm_source=1953&utm_medium=feed&keyword=E-commerce-Marketing-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5434058__1953_061d89a6bfc7e3c14a074416d741c334?utm_source=1953&utm_medium=feed&keyword=E-commerce-Marketing-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3083,7 +3092,7 @@
     "company": "VigiCare+",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5436782__1953_e7d0343f9331e578bbd356d000519165?utm_source=1953&utm_medium=feed&keyword=Marketing-para-afiliados&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5436782__1953_e183420d05dd5654edfd1f6ece384ee9?utm_source=1953&utm_medium=feed&keyword=Marketing-para-afiliados&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3578,7 +3587,7 @@
     "company": "VExpenses",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441524__1953_3909ad73a52e3b56d5e86478d842d125?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441524__1953_fcebad41700072f23e81776eb1824f51?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3587,7 +3596,7 @@
     "company": "Agoda",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441528__1953_9f414a41787272a14bff284763cf32a9?utm_source=1953&utm_medium=feed&keyword=Senior-Specialist-B2B&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441528__1953_720e6977bb7e19c2322f661e1e164767?utm_source=1953&utm_medium=feed&keyword=Senior-Specialist-B2B&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3668,7 +3677,7 @@
     "company": "Growth Troops",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5442274__1953_30ad2567df6463b4b76bb2e5a2cdf5bd?utm_source=1953&utm_medium=feed&keyword=Technical-Sourcer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5442274__1953_09e40ad015df622f670fcf305fdcbf24?utm_source=1953&utm_medium=feed&keyword=Technical-Sourcer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3776,7 +3785,7 @@
     "company": "Birlasoft",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5443103__1953_36c7bb2b7e48660a250c6d970e944996?utm_source=1953&utm_medium=feed&keyword=Project-Analyst&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5443103__1953_1dd259080ad2e42d353755a581703576?utm_source=1953&utm_medium=feed&keyword=Project-Analyst&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4064,7 +4073,7 @@
     "company": "CB Marketing Boutique",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5445912__1953_744217b13a5d9209d4b044bec1117124?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5445912__1953_e0b0f37a8d307c1ecfb82ede96f3c843?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4451,7 +4460,7 @@
     "company": "On.Live Agency",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448682__1953_8a35cd986692aa2437803f19df230e11?utm_source=1953&utm_medium=feed&keyword=Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448682__1953_d99272def9f481ca203a08243c6c765a?utm_source=1953&utm_medium=feed&keyword=Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4829,7 +4838,7 @@
     "company": "IQVIA LLC",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5451714__1953_d5d55ee57531daf9ad420499968716a3?utm_source=1953&utm_medium=feed&keyword=COA-Clinical-Project&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5451714__1953_1301e6ae0b7cf06cb036ce7c8eb39cfc?utm_source=1953&utm_medium=feed&keyword=COA-Clinical-Project&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5036,7 +5045,7 @@
     "company": "CB Marketing Boutique",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5453071__1953_421167138568af88c5bb662708fb1a97?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5453071__1953_7775afc357b9194ae5dbda164a70f4ba?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5243,7 +5252,7 @@
     "company": "Objective",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5454582__1953_6295f6660a65b0e903ad1eee77588dfb?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5454582__1953_9c0ee53d487ce577a7de5a05ed251f52?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5414,7 +5423,7 @@
     "company": "Bitfinex",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5457061__1953_85acafe7c3311e250c6f179969adeda9?utm_source=1953&utm_medium=feed&keyword=Senior-Recruiter-Fully&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5457061__1953_616c4dfd48176da6748afe23bef7e753?utm_source=1953&utm_medium=feed&keyword=Senior-Recruiter-Fully&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5531,7 +5540,7 @@
     "company": "Totvs Sa",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5458692__1953_965bc00de426f95cf52c4a533f02fb6b?utm_source=1953&utm_medium=feed&keyword=Analista-S%C3%AAnior-de&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5458692__1953_e80f2fb9ebce81d57f7a3902cc0d53f7?utm_source=1953&utm_medium=feed&keyword=Analista-S%C3%AAnior-de&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5675,7 +5684,7 @@
     "company": "FullStack Labs",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5460304__1953_3a26c45fcd30ae02efd577344ea255ec?utm_source=1953&utm_medium=feed&keyword=Full-Stack-PHP-React&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5460304__1953_33cc006f15e41ad792922e451ab58c52?utm_source=1953&utm_medium=feed&keyword=Full-Stack-PHP-React&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6080,7 +6089,7 @@
     "company": "Remote Jobs",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5464084__1953_19b5a06eba1e204c2da3fdd9edf445a3?utm_source=1953&utm_medium=feed&keyword=Client-Success-Lead&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5464084__1953_015ce929367dcff27ec0470eedf683a4?utm_source=1953&utm_medium=feed&keyword=Client-Success-Lead&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6269,7 +6278,7 @@
     "company": "Unic Serviçoes E Solução Financeira",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5465758__1953_db2975e7322fa02545e630a9c6a30808?utm_source=1953&utm_medium=feed&keyword=Representante-Energia-Solar&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5465758__1953_da80aa0a209ba318d366caff0b00a4c6?utm_source=1953&utm_medium=feed&keyword=Representante-Energia-Solar&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6332,7 +6341,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5466702__1953_410f455740bb778e57f0a750540dc6ca?utm_source=1953&utm_medium=feed&keyword=Recrutadores-de-TI&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5466702__1953_594180860a37fb4a3f6505f21816679b?utm_source=1953&utm_medium=feed&keyword=Recrutadores-de-TI&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6467,7 +6476,7 @@
     "company": "CB Marketing Boutique",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5467609__1953_14de1a0da5af042f4e14e6c9820258ba?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5467609__1953_96191ee50142d75beec539e2d236581b?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6530,7 +6539,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5468354__1953_996f5b2a6b46e6672e674c69fad9455e?utm_source=1953&utm_medium=feed&keyword=Junior-QA-Analyst&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5468354__1953_4d9d4dafed488825cb4b369fe842dec8?utm_source=1953&utm_medium=feed&keyword=Junior-QA-Analyst&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6926,7 +6935,7 @@
     "company": "Growth Troops",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5472416__1953_2c4c26b491b3c87f210b8d00acf4da0d?utm_source=1953&utm_medium=feed&keyword=YouTube-Podcast&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5472416__1953_084401ccb16de8fdec2cc7fc725b00da?utm_source=1953&utm_medium=feed&keyword=YouTube-Podcast&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7205,7 +7214,7 @@
     "company": "SpeedCast International",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5474814__1953_aafc8290d486a41fd9a924ebfb727402?utm_source=1953&utm_medium=feed&keyword=NOC-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5474814__1953_7ae78176e2e02e5d35f70cbef1962cad?utm_source=1953&utm_medium=feed&keyword=NOC-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7565,7 +7574,7 @@
     "company": "Netrix Global",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5478428__1953_4fae512158114e3bde6f12e60080bf4a?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5478428__1953_6133dca700de7795364d0be30b4e11b3?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7664,7 +7673,7 @@
     "company": "Luizalabs",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5479142__1953_30342f90982f79ba800a99220680110a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5479142__1953_0985a3804fe800b4b3a755a38646749f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7673,7 +7682,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5479149__1953_499588eb0509d9da76e96e9002c62aa5?utm_source=1953&utm_medium=feed&keyword=IT-Recruiter&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5479149__1953_1a5d075cf2a19c7cf4104f2aca1b5df5?utm_source=1953&utm_medium=feed&keyword=IT-Recruiter&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7790,7 +7799,7 @@
     "company": "Frenet",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5479820__1953_2d5fe3886caa23c6a238e042f76e7cd4?utm_source=1953&utm_medium=feed&keyword=Product-Designer-Jr&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5479820__1953_2468a83d85acff5fbcf02b0caeb5ba5a?utm_source=1953&utm_medium=feed&keyword=Product-Designer-Jr&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7799,7 +7808,7 @@
     "company": "BairesDev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5479826__1953_77787f2ac5bc8f4423db8e434896378a?utm_source=1953&utm_medium=feed&keyword=Software-Development-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5479826__1953_449aa9792e84f90025c6c35e723e1828?utm_source=1953&utm_medium=feed&keyword=Software-Development-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8195,7 +8204,7 @@
     "company": "Launch Potato",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5482779__1953_b32dffc5bf38b8ddf34ac661c978ee37?utm_source=1953&utm_medium=feed&keyword=Paid-Media-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5482779__1953_1ffe84f1c8aa87f49167489d11a7c38f?utm_source=1953&utm_medium=feed&keyword=Paid-Media-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8357,7 +8366,7 @@
     "company": "Mondelēz International",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5483991__1953_0c0d9522fc743b4266477c007b31a312?utm_source=1953&utm_medium=feed&keyword=RGM-Data-Analyst&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5483991__1953_5d98e227db68d12df6a4817ac91b8339?utm_source=1953&utm_medium=feed&keyword=RGM-Data-Analyst&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8447,7 +8456,7 @@
     "company": "Worldwide Clinical Trials",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5484590__1953_231510770fbff3784c728838e5603d9d?utm_source=1953&utm_medium=feed&keyword=Senior-Clinical-Research&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5484590__1953_19a1d42db3e1567736860c68c1daf8f6?utm_source=1953&utm_medium=feed&keyword=Senior-Clinical-Research&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8456,7 +8465,7 @@
     "company": "V360",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5484600__1953_f58861ce0f87c724bcb92220e786cb04?utm_source=1953&utm_medium=feed&keyword=BDR-Pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5484600__1953_3263008430996e84589171c0c66504c6?utm_source=1953&utm_medium=feed&keyword=BDR-Pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8988,15 +8997,6 @@
     "city": "Campinas",
     "state": "São Paulo",
     "url": "https://br.whatjobs.com/coopob__cpl___70_5488375__1953_c7d065b9dbe716eda3e14c0e8b762759?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Editor, Marketing",
-    "description": "<p><h3>Overview </h3> <p>Join to apply for the <b>Editor, Marketing </b> role at <b>Darkroom </b>. </p> <p>Darkroom is a progressive omnichannel growth marketing agency focused on retail, e-commerce, and consumer businesses. We have been recognized as one of the fastest growing private companies in America by Inc.  ), a top 1% digital advertiser by Varos (2023), and our founders were named Forbes 30 Under 30 recipients for Marketing and Advertising North America (2024). </p> <p>As a Video Editor on Darkroom’s internal Marketing Team, you’ll shape the visual storytelling behind our brand. You’ll transform raw content into engaging, high-impact videos for platforms like Instagram, YouTube, TikTok, and LinkedIn. This is a fast-moving, creative, and collaborative role for someone with sharp instincts, strong technical skills, and a passion for crafting content that connects with audiences. </p> <p>This is a fully remote role supporting a team in the EST time zone and is open to candidates based in Brazil, Portugal, and Spain. </p> <h3>What You’ll Do </h3> <ul> <li>Edit and produce standout content across short-form (TikTok, Reels, Shorts) and long-form (YouTube, webinars). </li> <li>Create native video formats optimized for IG, LinkedIn, YouTube, TikTok, and X, including repurposed edits and cutdowns. </li> <li>Build scroll-stopping hooks, apply text overlays, closed captions, sound design, and motion graphics that support performance. </li> <li>Turn voice notes, podcasts, webinars and interviews into polished, platform-native video content. </li> <li>Surface and extract the most compelling moments from raw footage: podcast soundbites, behind-the-scenes gems, founder tangents, interviews, etc. </li> <li>Collaborate with the Video Lead on edits, structure, and narrative framing. </li> <li>Organize, tag, and manage footage to create a systemized pipeline for recurring content formats. </li> <li>Understand performance data and collaborate with the marketing team to refine editing strategies based on what drives reach, engagement, and conversion. </li> <li>Test hooks, variations and formats to optimize output over time. </li> <li>Stay ahead of editing trends and platform algorithm shifts. </li>  </ul> <h3>Production Excellence </h3> <ul> <li>Apply finishing touches: color correction, transitions, graphics, and text effects that align with the Darkroom brand language. </li> <li>Deliver content in multiple aspect ratios and formats for cross-platform distribution. </li> <li>Maintain high audio fidelity, visual clarity, and consistent branding across deliverables. </li> <li>Proactively troubleshoot creative or technical challenges and recommend solutions. </li> <li>Support post-production for Darkroom’s podcast and event recordings. </li> <li>Add intros/outros, audio enhancements, and accessible subtitles. </li>  </ul> <h3>You’re a Great Fit If You: </h3> <ul> <li>Have 3-4+ years of experience editing content for social-first brands, creators, or agencies. </li> <li>Know your way around Adobe Premiere, Final Cut, and have working knowledge of After Effects, Photoshop and motion graphics. </li> <li>Have a sharp eye for storytelling, pacing, and rhythm, and you know how to build content that keeps attention. </li> <li>Understand editing for performance, not just aesthetics. You know what performs on TikTok vs. YouTube Shorts vs. LinkedIn. </li> <li>Are fluent in optimizing content across multiple aspect ratios and formats. </li> <li>Can own your edit from concept to final export while staying collaborative, communicative, and open to feedback. </li> <li>Thrive in fast-paced, feedback-rich environments where no two days (or edits) are the same. </li> <li>Are organized, meticulous, and always ready with a plan B (or C). </li>  </ul> <h3>Bonus Points If You: </h3> <ul> <li>Have experience editing founder-led content or personal brand material. </li> <li>Have worked on performance-driven or growth marketing creative. </li> <li>Use AI tools (Descript, Runway, etc.) for cutdowns, transcription, or speeding up your workflow. </li>  </ul> <h3>What It\\'s Like To Work At Darkroom </h3> <p>We\\'re building the future of advertising and are looking for the minds to help us do it. We offer highly competitive salaries and the following perks: </p> <ul> <li>Unlimited Vacation Policy and Holidays: flexible vacation policy and 10 holidays per year. </li> <li>Remote-first culture with hubs in the Bay Area, New York, Philly, Lisbon, Sao Paulo, and Barcelona. </li> <li>Equity incentives and profit-sharing opportunities. </li> <li>Opportunities for growth through cross-functional collaboration. </li> <li>Parental Leave: flexible parental leave benefits to support new parents. </li>  </ul> <h3>Equal Opportunity Statement </h3> <p>Darkroom is an equal opportunity workplace—we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. </p> <h3>Seniority level </h3> <p>Mid-Senior level </p> <h3>Employment type </h3> <p>Full-time </p> <h3>Job function </h3> <p>Marketing, Public Relations, and Writing/Editing </p> <h3>Industries </h3> <p>Advertising Services </p>  </p> #J-18808-Ljbffr",
-    "company": "Darkroom",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5488529__1953?utm_source=1953&utm_medium=feed&keyword=Editor-Marketing&location=Campinas&geoID=1713",
     "tipo": ""
   }
 ]
