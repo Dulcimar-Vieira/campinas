@@ -1,5 +1,68 @@
 [
   {
+    "title": "SR Azure Engineer",
+    "description": "<p><p>Aqui na ília nossas vagas estão sempre abertas para todas as pessoas e não se restringem quanto a gênero, etnia, orientação sexual, fatores sociais, condições físicas ou intelectuais (PCD) etc. Incentivamos a candidatura de integrantes de todos os grupos minoritários! </p><h3>Sobre a ília </h3><p>Somos especialistas em tecnologia, dados e design, impulsionando a transformação digital de grandes players do mercado há mais de 10 anos, nos setores financeiro, seguros e mobilidade. Com mais de 450 profissionais, estamos presentes no Brasil e Europa, atendendo aos mercados da América Latina, Europa e América do Norte, desenvolvendo produtos digitais de alta qualidade e com foco em resultados de negócios. Somos uma equipe inovadora, criativa e apaixonada por tecnologia. </p><p>Certificada pelo 5° ano consecutivo como Great Place to Work, acreditamos que pessoas mudam o mundo, e investimos nelas. Nossas awesome deliveries são feitas de pessoas para pessoas, afinal awesome people make awesome deliveries! </p><h3>Responsabilidades </h3><ul><li>Projetar, implementar e gerenciar soluções em <b>Microsoft Azure </b>. </li><li>Definir, revisar e implementar arquiteturas de nuvem seguras, escaláveis e resilientes. </li><li>Administrar serviços como <b>Azure DevOps, Azure Kubernetes Service (AKS), App Services, Functions, Networking, Storage e Databases </b>. </li><li>Criar e manter pipelines de CI/CD e automações de infraestrutura (IaC com <b>Terraform, Bicep ou ARM Templates </b>). </li><li>Monitorar ambientes e otimizar custos de infraestrutura. </li><li>Atuar em incidentes, garantindo alta disponibilidade e performance das soluções. </li><li>Apoiar times de desenvolvimento e operação com melhores práticas de uso da nuvem. </li> </ul><h3>Requisitos </h3><ul><li>Experiência sólida em <b>Microsoft Azure </b> (PaaS, IaaS, Networking, Security, Monitoring). </li><li>Conhecimento em <b>Infraestrutura como Código (IaC) </b>. </li><li>Experiência com <b>CI/CD </b> e ferramentas de automação. </li><li>Vivência em ambientes <b>Kubernetes/containers </b>. </li><li>Forte conhecimento em <b>segurança em nuvem </b> (identity, access, compliance). </li><li>Experiência com troubleshooting, performance tuning e otimização de custos. </li><li>Boa comunicação e capacidade de colaboração com times multidisciplinares. </li><li>Certificações Azure (AZ-104, AZ-305, AZ-400 ou similares). </li><li>Experiência com <b>multi-cloud </b> ou integração de serviços híbridos. </li><li>Conhecimento em <b>observabilidade </b> (AppInsights, Log Analytics, Prometheus, Grafana). </li><li>Experiência em ambientes ágeis (Scrum, Kanban). </li> </ul><h3>Benefícios </h3><p>Nossa contratação é CLT – 40h semanais com jornada flexível, sendo executada de forma remota. Os benefícios da ília são pensados para proporcionar uma experiência AWESOME para cada ílian; abaixo você encontra os benefícios de forma resumida. </p><p>Para Saúde e bem-estar: </p><ul><li>Plano de Saúde e Odontológico SulAmérica extensivo a dependentes; </li><li>Vale Alimentação/Refeição em cartão flexível Caju benefícios; </li><li>Auxílio Home-Office em cartão flexível Caju benefícios; </li><li>Sesc – extensivo a dependentes, com acesso aos serviços em todo o Brasil; </li> </ul><p>Para o seu Desenvolvimento: </p><ul><li>ilia University: Universidade Corporativa com mais de 20 mil cursos disponíveis para desenvolvimento pessoal e profissional; </li><li>Language Academy: Escola de idiomas para ílians; </li><li>í-talks e Chapter: Momentos e cerimônias em que o time compartilha práticas, estudos, projetos e ideias. Nas chapters ainda se reúnem pessoas com skills similares para compartilhamento de ideias, práticas e experiências; </li> </ul><p>Gostamos de ir além no cuidado com as nossas pessoas, então dispomos também de alguns benefícios não convencionais: </p><ul><li>Plano de Saúde PET - Guapeco </li><li>Onhappy – benefício de viagem a lazer, com liberdade para você viajar com quem quiser. </li><li>BYOD - Alugamos o seu notebook pessoal te pagando um valor mensal para que você o use, mas disponibilizamos também máquinas de trabalho para ílians. Você quem decide! </li><li>Seu Networking Vale Prêmio - Programa de premiação à indicação de novos funcionários. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "ília",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5599978__1953?utm_source=1953&utm_medium=feed&keyword=SR-Azure-Engineer&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Data Analyst - Brazil",
+    "description": "<h3><b>Your role at Dynatrace </b> </h3><p>As a Data Analytics Consultant II, you’ll work with some of the largest sites on the web across major industries (retail, auto, finance, travel, etc.) and help to answer questions about site performance and user engagement, which drives improved customer experience for their customers and improves the client’s overall business.<br>Dynatrace’s tools generate mountains of data, a lot of which clients don’t know how to make use of…that’s where you come in. You will turn that mountain of data into invaluable insight. As someone who lives and breathes data, analysis and problem solving, you will help your clients understand the right performance data, in the right context. You’ll turn that data into business altering insight which enables your client to take the right action to improve overall site performance and user experience that maximizes business outcomes.<br>You will help clients set a strategy for how they can optimize both their current performance and build performance into their culture. You will deliver targeted and actionable value for 40+ clients. Responsibilities include:<br>• Becoming adept with our Digital Experience components to find the important pieces of data that will help move the performance needle for your customer base<br>• Prioritization and organization of your top consuming customers to ensure you’re meeting their critical monitoring needs<br>• Looking for opportunities to help your newer customers mature with Digital Experience and expand their usage of Dynatrace<br>• Creating concise analysis deliverables for your clients by finding answers from the Digital Experience data through reporting, dashboarding, or technology expertise<br>• Focusing your efforts with a consultative mindset to identify needs across varied industry verticals<br>• Additional responsibilities include working with our team to improve process, identify training gaps and share ideas </p><h3><b>What will help you succeed </b> </h3><p><strong>Minimum Requirements: </strong><br>• Bachelor’s degree in Computer Information Systems, Computer Science, Business, Marketing, Statistics, Mathematics, Economics or other related disciplines is required.<br>• 3-5 years of experience with data analysis, including looking at and distilling complex sets of data and presenting findings in an engaging way<br><strong>Preferred Requirements: </strong><br>• Experience in data driven analysis - excellent at working with, understanding, analyzing data<br>• Strong understanding of web technologies including HTML, JS, CSS, networking, Content Delivery Networks, Cloud; basic understanding of Chrome Dev and Webpage test<br>• Proficient with analysis tools including Google Analytics, Adobe, Advanced Excel, Tableau, SPSS, R, etc.<br>• Stellar conceptualization and communication skills. Demonstrated ability to bring business and technical people together around clear product concepts, and to motivate them to deliver whole, working solutions<br>• Operates with a customer first focus<br>• Proven ability to work under pressure and to handle multiple conflicting priorities<br>• Recognizes and understands both personal and team dynamics and relationships, is empathetic to stakeholder concerns and effectively influences and persuades<br>• Thinks proactively and tries to develop solutions rather than wait for an answer<br>• Has a desire to learn new technology and deliver successful customer and partner outcomes for stakeholders at all levels<br>• Possesses excellent organizational, problem-solving, and analytical skills with a keen attention to detail<br>Expectation: all Insights team members are expected to travel at least 1 time per year for annual team meetings. </p><h3><b>Why you will love being a Dynatracer </b> </h3><ul><li>A one-product software company creating real value for the largest enterprises and millions of end customers globally, striving for a world where software works perfectly. </li><li>Working with the latest technologies and at the forefront of innovation in tech on scale; but also, in other areas like marketing, design, or research. </li><li>A team that thinks outside the box, welcomes unconventional ideas, and pushes boundaries. </li><li>An environment that fosters innovation, enables creative collaboration, and allows you to grow. </li><li>A globally unique and tailor-made career development program recognizing your potential, promoting your strengths, and supporting you in achieving your career goals. </li><li>A truly international mindset with Dynatracers from different countries & cultures all over the world, and English as the corporate language that connects us all </li><li>A culture that is being shaped by the diverse personalities, expertise, and backgrounds of our global team. </li> </ul> #J-18808-Ljbffr",
+    "company": "dynaTrace software GmbH",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5600241__1953?utm_source=1953&utm_medium=feed&keyword=Data-Analyst&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor Java - Trabalho Remoto",
+    "description": "<p>Há mais de 15 anos, a BairesDev é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício. </p><p>Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. </p><p>Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional. </p><p>Ser um Desenvolvedor Java em nossa equipe de desenvolvimento é como ser um solucionador de problemas em tempo integral. Esperamos que suas habilidades combinem experiência, conhecimento e independência. A inovação também está no centro da estratégia da BairesDev. Portanto, se você está disposto a assumir as tarefas mais complexas e ser um mestre em sua tecnologia, Java, provavelmente é o que estamos procurando. </p><p>- Trabalhar com equipes de desenvolvimento de software para coletar requisitos e garantir a adesão das melhores práticas. </p><p>- Projetar, implementar e dar suporte a soluções para desenvolvimento de aplicativos, segurança, análise e gerenciamento de desempenho. </p><p>- Estar em conformidade com os padrões de codificação de segurança existentes do setor e da Verizon, aderindo aos requisitos de revisão de verificação e outros requisitos de ferramentas de segurança. </p><p>- Conduzir revisões de código para membros juniores da equipe e fazer revisões de código por pares para garantir que o código esteja seguindo os padrões estabelecidos pelos arquitetos. </p><p>- Executar scripts de teste em relação ao código para garantir a entrega de qualidade. </p><p>- Resolver problemas de código com urgência. </p><p>Esperamos que você tenha: </p><p>- 5+ anos de experiência em Java. </p><p>- Experiência com bancos de dados SQL e NoSQL. </p><p>- Experiência com Microsserviços e Cloud. </p><p>- Conhecimento avançado de algoritmos. </p><p>- Conhecimento em infraestrutura de TI. </p><p>- Gestão de metodologias ágeis intermediárias. </p><p>- Forte compreensão das melhores práticas, princípios SOLID, CLEAN Code e soluções escaláveis. </p><p>- Conhecimento em Design Patterns. </p><p>- Experiência no desenvolvimento de aplicativos inteiros do zero. </p><p>- Experiência em testes automatizados e pipelines de CI/CD. </p><p>- Forte experiência com controle de versão. </p><p>- Nível avançado de inglês. </p><p>Como tornamos seu trabalho (e sua vida) mais fácil: </p><p>- Modalidade 100% remota - trabalhe de qualquer lugar. </p><p>- Excelente remuneração em USD ou na sua moeda local, como preferir. </p><p>- Hardware para você trabalhar de casa. </p><p>- Horários flexíveis - faça seu próprio horário. </p><p>- Licença parental remunerada, férias, e feriados nacionais. </p><p>- Ambiente de trabalho inovador e multicultural. </p><p>- Colabore e aprenda com o Top 1% global dos talentos de cada área. </p><p>- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento. </p><p>Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar! </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 2 months ago </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 2 months ago </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 3 weeks ago </p><p>Greater Rio de Janeiro $60,000.00-$96,000.00 5 hours ago </p><p>Rio de Janeiro, Rio de Janeiro, Brazil 2 days ago </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 1 month ago </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 3 weeks ago </p><h3>Estágio em Desenvolvimento Web e Automação </h3><p>Rio de Janeiro, Rio de Janeiro, Brazil R$1,000.00-R$1,000.00 2 months ago </p><p>Rio de Janeiro, Rio de Janeiro, Brazil 1 week ago </p><p>Greater Rio de Janeiro R$9,001.00-R$10,000.00 3 weeks ago </p> #J-18808-Ljbffr",
+    "company": "BairesDev",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5600403__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Junior Node Developer - Remote",
+    "description": "<p>At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. </p><p><strong>About the Role: </strong> </p><p>We are looking for Junior Node Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to provide the best experience to the end user. This is an excellent opportunity for those professionals looking to develop in one of the fastest growing companies in the industry! </p><p>These developers will face numerous technical challenges, so they must use current technologies, get involved in the mobile world, web applications, devices, etc. </p><p><strong>Main Activities: </strong> </p><ol><li>Architect Bandit backend systems using the best practices. </li><li>Implement and iterate features in a tactical manner and rapid pace. </li><li>Work collaboratively and efficiently across functional teams in a fast paced early stage startup environment. </li><li>Design, extend, and implement APIs. </li><li>Maintain a high standard of engineering quality through code reviews, unit tests, and analytics. </li><li>Create engineering efficiencies through automation and development of tools. </li><li>Define engineering processes for product launch and releases. </li><li>Help us grow the world class engineering team by running technical interviews. </li> </ol><p><strong>Requirements: </strong> </p><ol><li>1+ year of experience in Node development. </li><li>Experience in Video and HLS. </li><li>Advanced English level. </li> </ol><p>If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply! </p><h3>Seniority level </h3><p>Mid-Senior level </p><h3>Employment type </h3><p>Full-time </p><h3>Job function </h3><p>Information Technology </p><h3>Industries </h3><p>Staffing and Recruiting </p> #J-18808-Ljbffr",
+    "company": "INDI Staffing Services",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5601068__1953?utm_source=1953&utm_medium=feed&keyword=Junior-Node-Developer&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Gerente Comercial Digital | Prestação de Serviços (PJ)",
+    "description": "<p><h3>Overview </h3><p>Gerente Comercial Digital | Prestação de Serviços (PJ) – Lev Negócios </p><p>Como Gerente Comercial Digital, você será responsável por dar suporte aos parceiros estratégicos designados pela diretoria Lev, se comunicando remotamente por meio de ligações, calls e outras mídias, conduzindo negociações de comissionamento, oferecendo novas oportunidades de negócios, indicando ferramentas para melhorias na produção e gestão do cliente. </p><p>Sua capacidade de bom relacionamento, escuta ativa das necessidades e habilidade de apresentar soluções adequadas serão fundamentais para o sucesso nessa função. </p><h3>Responsibilities </h3><ul><li>Suporte aos parceiros estratégicos designados pela diretoria Lev, comunicando-se remotamente. </li><li>Conduzir negociações de comissionamento e oferecer novas oportunidades de negócios. </li><li>Indicar ferramentas para melhorias na produção e gestão do cliente. </li><li>Utilizar bom relacionamento, escuta ativa e apresentação de soluções para atender às necessidades identificadas. </li> </ul><h3>Qualifications </h3><ul><li>Residir em Franca/SP ou proximidades; </li><li>Formação superior em Gestão Comercial, Administração, Gestão Financeira ou áreas relacionadas; </li><li>Conhecimento intermediário em Excel, com domínio de recursos e fórmulas, incluindo operações básicas, SE, Procv e tabelas dinâmicas; </li><li>Excelente habilidade de relacionamento interpessoal; </li><li>Comunicação verbal e escrita excelente; </li><li>Habilidades essenciais em ferramentas digitais; </li><li>Conhecimento prévio em Consignado. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Lev Negócios",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5601762__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial-Digital&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Staff Security Operations Engineer",
+    "description": "<p><h3>Overview </h3><p>Join to apply for the <b>Staff Security Operations Engineer </b> role at <b>Canonical </b>. We have opened several senior/staff Security Operations Engineer (SOC) positions, creating a new team reporting to the CISO. We are looking for a range of experience in these positions; at the high end we are seeking deep experience defending highly contested critical assets and high-value cyber targets against advanced persistent threats and state-level actors. We have more junior roles for exceptional individuals with a proven personal interest and engagement in cyber attack and defence, and outstanding academic and career performance even if experience is limited. Our goal is to build an entirely new level of assurance and observable rigour into the open source supply chain. We have our own estate to monitor, but more broadly our goal is to raise the robustness of the entire global Ubuntu estate through the work of this team. </p><p>The Security Operations (SecOps) team is responsible for design, implementation and evolution of Canonical security practices, techniques, tools, systems and policies. The team is the primary owner of strategy and practices that determine how Canonical secures its data, internal infrastructure and build processes. They are responsible for assuring the security and integrity of our own infrastructure and product deployments. They design and implement technical security controls that ensure security threats are automatically identified, contained and remediated. The team will also contribute ideas and requirements for Canonical product security, improving the resilience and robustness of all Ubuntu customers and users subject to cyber attack. The SecOps team\\u2019s mission is not only to secure Canonical, but also to contribute to the security of the wider open source ecosystem. They might share knowledge through public presentations and industry events, and share threat intelligence with the wider community or represent Canonical in sector-specific governance bodies. </p><p><b>What you will do in this role: </b> </p><ul><li>Implement and evolve Canonical\\u2019s SecOps security standards and playbooks </li><li>Analyse and improve Canonical\\u2019s security architecture </li><li>Evaluate, select and implement new security tools and practices </li><li>Identify, contain and guide the remediation of security threats and cyber attacks </li><li>Grow the presence and thought leadership of Canonical SecOps practice </li><li>Contribute to open source threat intelligence initiatives </li><li>Drive threat modelling, table top exercises and other SecOps practices across Engineering, IS and Canonical </li><li>Develop Canonical SecOps learning and development materials </li><li>Publish blog posts, whitepapers and conference presentations </li><li>Identify, implement and track SecOps KPIs </li><li>Plan and deliver SecOps work in the framework of Canonical\\u2019s agile engineering practice </li><li>Work with Security leadership to present information and influence change </li> </ul><h3>What we are looking for </h3><ul><li>An exceptional academic track record </li><li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path </li><li>Drive and a track record of going above-and-beyond expectations </li><li>Deep personal motivation to be at the forefront of technology security </li><li>Expertise in threat modelling and risk management frameworks </li><li>Knowledge of security architecture and market-leading security tools </li><li>Experience contributing to, and consuming, threat intelligence feeds </li><li>Experience in security risk management frameworks such as NIST CSF </li><li>Experience with security standards such as ISO 27001 </li> </ul><h3>Optional things we value </h3><ul><li>Experience in a security operations team or a security operations centre (SOC) </li><li>Experience in offensive or defensive security teams with hands-on ability </li><li>Experience with state-actor and other advanced persistent threats </li> </ul><h3>What we offer you </h3><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. </p><ul><li>Distributed work environment with twice-yearly team sprints in person </li><li>Personal learning and development budget of USD 2,000 per year </li><li>Annual compensation review </li><li>Recognition rewards </li><li>Annual holiday leave </li><li>Maternity and paternity leave </li><li>Employee Assistance Programme </li><li>Opportunity to travel to new locations to meet colleagues </li><li>Priority Pass, and travel upgrades for long haul company events </li> </ul><h3>About Canonical </h3><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. </p><p>Canonical is an equal opportunity employer. We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. </p><h3>Seniority level </h3><ul><li>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Information Technology </li> </ul><h3>Industries </h3><ul><li>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Canonical by 2x </p><p>Get notified about new Security Engineer jobs in Porto Alegre, Rio Grande do Sul, Brazil. </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> </p> #J-18808-Ljbffr",
+    "company": "Canonical",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5601801__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Security-Operations&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "description": "<h3>Overview </h3> <p>Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of globally distributed collaboration, with 1100+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable and growing. </p> <p>We are hiring a Web/UI Engineer to develop a data-rich and reliable user experience. These frontends are constructed using JS, CSS, React, and Flutter, and serve as Canonical's enterprise products that act as the company's face to our users. </p> <p>In order to create consistency across our products and sites, we have a central team that builds an open-source React toolkit and presentation layer, the Vanilla Framework. We are excited to develop this further and see if we can help more open-source projects build performant and accessible interfaces that respond well to diverse layouts. We use REST APIs for communication, and we consider API design an important part of the process. </p> <p>Flutter is a new front-end technology that has the potential to unify our desktop and web development. We are growing the team's exposure to Flutter and have roles on both web and Ubuntu engineering for this specialism. </p> <p>We hire developers with outstanding academic results and a passion for open-source software, innovation, and cutting-edge web technologies. In these roles, you will have the opportunity to make significant contributions through high-quality, front-end and back-end code while exhibiting technical leadership, exceptional design, and intuitive user experience. </p> <p>Additionally, we encourage colleagues to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. </p> <p><b>Location </b>: This is a Globally remote role. </p> <h3>The role entails </h3> <ul> <li>Design and implement well-tested and documented software in Web technologies or Flutter. </li> <li>Debug and fix issues encountered by your users </li> <li>Participate in our engineering process through code and architectural reviews </li> <li>Collaborate with community and colleagues on technical specifications </li> <li>Contribute to technical documentation to make it the best of its kind </li> <li>Seek improvements to engineering and operations practices </li> <li>Deploy and operate services developed by the team </li> <li>Contribute to the success of your product through technical advocacy </li>  </ul> <h3>What we are looking for in you </h3> <ul> <li>An exceptional academic track record from both high school and university </li> <li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path </li> <li>Drive and a track record of going above and beyond expectations </li> <li>Well-organised, self-starting and able to deliver to schedule </li> <li>Professional manner in interacting with colleagues, partners, and community </li> <li>Experience designing and writing high-quality Web technologies </li> <li>Experience with and passion for Typescript, React or Flutter </li> <li>An eye for accessibility and performance </li> <li>Professional written and spoken English </li> <li>Experience with Linux (Debian or Ubuntu preferred) </li> <li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li> <li> Passion, thoughtfulness, and self-motivation </li> <li>Excellent communication and presentation skills </li> <li>Result-oriented, with a personal drive to meet commitments </li> <li>Ability to travel twice a year, for company events for up to two weeks each </li>  </ul> <h3>Nice-to-have skills </h3> <ul> <li>Experience with container tech such as LXD, Docker and Kubernetes </li> <li>Attention to detail concerning user-centric UI development </li> <li>REST API design, development and governance </li> <li>Performance engineering and security experience </li>  </ul> <h3>What we offer colleagues </h3> <p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. </p> <ul> <li>Distributed work environment with twice-yearly team sprints in person </li> <li>Personal learning and development budget of USD 2,000 per year </li> <li>Annual compensation review </li> <li>Recognition rewards </li> <li>Annual holiday leave </li> <li>Maternity and paternity leave </li> <li>Employee Assistance Programme </li> <li>Opportunity to travel to new locations to meet colleagues </li> <li>Priority Pass, and travel upgrades for long-haul company events </li>  </ul> <h3>About Canonical </h3> <p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. </p> <p>Canonical is an equal-opportunity employer </p> <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background creates a better work environment and better products. Whatever your identity, we will give your application fair consideration. </p> <h3>Seniority level </h3> <ul><li>Entry level </li> </ul> <h3>Employment type </h3> <ul><li>Full-time </li> </ul> <h3>Job function </h3> <ul><li>Engineering and Information Technology </li> </ul> <h3>Industries </h3> <ul><li>Software Development </li> </ul> <p>Referrals increase your chances of interviewing at Canonical by 2x </p> #J-18808-Ljbffr",
+    "company": "Canonical",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5601898__1953?utm_source=1953&utm_medium=feed&keyword=Web-Frontend-Engineer&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
     "title": "Senior Business Analyst - Insurance (Fully Remote)",
     "description": "<h3>Senior Business Analyst - Insurance (Fully Remote) </h3><h3>What You Will Do </h3><ul><li>Work with clients and technical resources to identify their business problems and develop the right approach and analytical solution </li><li>Plan and design simple to semi-complex business processes and system modifications </li><li>Make recommendations to improve and support business activities </li><li>Gather business requirements through a variety of techniques such as work sessions and interviews then analyze and document client complex business requirements and processes; communicate these requirements to appropriate parties </li><li>Create complex test case scenarios to be used in testing; monitor/oversee the testing of business applications to verify that all client requirements are incorporated into the system design </li><li>Develop business requirements documents/user stories to support the required modifications </li><li>May plan, allocate and monitor work of other business analysts </li><li>Understand simple to complex systems and related data to surface actionable insights, demonstrate sound judgment and decision-making skills </li><li>Assist in providing time estimates for project related tasks </li><li>Aid in updating process and procedural documentation </li><li>Develop basic understanding of technical development cycle of mobile application or web portals </li><li>Support QA, UAT and Release phases of the project via defect analysis, change maintenance, etc </li><li>Any other task that may be assigned </li> </ul><h3>What We Need </h3><ul><li>Minimum 5 years of experience as Business Analyst </li><li>A degree in Business, IT or any relevant field </li><li>Previous experience working in the insurance industry is required (Insurtech or health insurance experience) </li><li>Health Insurance-related domain certification from INS/LOMA or III is an added advantage </li><li>Knowledge of business analysis concepts of defining requirements, translating to technical solutions, and Agile approach to prioritizing work to epics, sprints </li><li>Business analysis skills including facilitation, process documentation, requirements gathering and user acceptance testing </li><li>Good organizational/time management skills to prioritize work and meet deadlines within defined timeframes </li><li>Experience in an Agile and/or Scrum environment is a must </li><li>Basic knowledge in generating process documentation, and document system functionality, data integration, and workflow </li><li>Excellent written and verbal communication skills in English </li><li>Technical writing skills are a plus </li><li>Must be fluent in Spanish </li><li>Must be open to work in Central European Time or Central Time Zone </li> </ul><h3>Why You\\'ll Love Working Here </h3><ul><li>Fully Remote </li><li>Flexible Leave </li><li>International Environment </li><li>Competitive remuneration package </li><li>Performance Bonus </li><li>Stock Options after 6 months </li><li>Company activities and events </li><li>Learning and development plan </li><li>Remote work allowance </li> </ul><h3>About Us </h3><ul><li>We are a leading global no-code insurance platform for health, life, and P&C </li><li>We\\'re the winner of the Insurtech of the Year in Asia and other awards globally </li><li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more </li><li>We\\'re an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world </li><li>We are fully funded and backed by reputable VC funds and strategic institutional investors </li><li>We have a global presence in Asia, EMEA and the Americas </li><li>We\\'ve grown our annualized revenue by over 30x since January 2021 </li><li>We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world </li> </ul><h3>Privacy and Consent </h3><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo\\'s Privacy Notice and you consent to the processing of your data as part of this application. </p><h3>Job Details </h3><ul><li><b>Seniority level: </b> Mid-Senior level </li><li><b>Employment type: </b> Full-time </li><li><b>Job function: </b> Analyst </li><li><b>Industries: </b> IT Services and IT Consulting </li> </ul> #J-18808-Ljbffr",
     "company": "CoverGo | Insurtech",
@@ -149,7 +212,7 @@
     "company": "Wellhub Inc.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5608538__1953_c5737f956ee49a3c026ff1af7af1f94d?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5608538__1953_e68d69b6a39a60237ce7803c5643984c?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -158,7 +221,7 @@
     "company": "VIAFLOW®",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5608619__1953_08dae54f5ef40fc42d048e33aabc80c5?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Front-end&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5608619__1953_3fb24cbacff99ce104ac99d7b727bc8e?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Front-end&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -266,7 +329,7 @@
     "company": "Join Creative Tech",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5613422__1953_e0592e2ea26bb06aa2ab430ce739b9bd?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-S%C3%AAnior&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5613422__1953_6c7255baea241f7a4174c40e5cabd173?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-S%C3%AAnior&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -356,7 +419,7 @@
     "company": "Data Meaning",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5721883__1953_9fa732ce8e9cb8879c9dc1bbda2dfac5?utm_source=1953&utm_medium=feed&keyword=Microstrategy-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5721883__1953_2f9ecb1d4a56ab010089792793fbd4c2?utm_source=1953&utm_medium=feed&keyword=Microstrategy-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -419,7 +482,7 @@
     "company": "Bitso Brasil",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5727016__1953_e94f95089d93647004f21a339c3961a8?utm_source=1953&utm_medium=feed&keyword=Senior-Sales-Executive&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5727016__1953_f3d2c9b9c5ab790aa210a6927cadaaa7?utm_source=1953&utm_medium=feed&keyword=Senior-Sales-Executive&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -770,7 +833,7 @@
     "company": "Canonical",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5781873__1953_f47b59259912d6c7bb0e1fb6e4848ed6?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5781873__1953_cebf33af5dd002ca1226612418f786df?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -950,7 +1013,7 @@
     "company": "Palermo Advisors",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5807414__1953_c16455ce3603466c6f61d04ff0e9dc17?utm_source=1953&utm_medium=feed&keyword=Senior-Graphic-Designer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5807414__1953_1420a12d2a60e1702f2e8a826437d150?utm_source=1953&utm_medium=feed&keyword=Senior-Graphic-Designer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1454,7 +1517,7 @@
     "company": "VTEX",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5880101__1953_817e8949246ceeccfe45fc98a0ae445b?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5880101__1953_df4a0405258c1d068350cf5cce1b7139?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2570,7 +2633,7 @@
     "company": "SupportYourApp",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6076336__1953_7d8c30f56af4131efc057316e92f8544?utm_source=1953&utm_medium=feed&keyword=fluent-German&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6076336__1953_422ef7038e179f1eaaed78c71a6ca3cc?utm_source=1953&utm_medium=feed&keyword=fluent-German&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2723,7 +2786,7 @@
     "company": "Stord, Inc.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6110936__1953_1865e3a5a5915dcb629f9f348937f0af?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6110936__1953_c403f6b6ee3a40e3f9cfcb94f29a037a?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2894,7 +2957,7 @@
     "company": "Nearsure",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6120955__1953_e7a20255caf148348a08e5c20b7c620b?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6120955__1953_63dad4ebfc18d0909c4ec2858a26cdec?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3074,7 +3137,7 @@
     "company": "Page Personnel do Brasil - Recrutamento Especializado e Servicos Corporativos Ltda",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6130007__1953_d1c4059d071c056b3d7554c5d34ada53?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6130007__1953_2d591386d5a81ca68a8a40bf3e1034b5?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3353,7 +3416,7 @@
     "company": "Netvagas",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6158532__1953_4201879781b89e63f73e7b8a13df3e19?utm_source=1953&utm_medium=feed&keyword=Analista-comerical-pleno&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6158532__1953_8d1b6a4378cb8933b448f1f472e6a09a?utm_source=1953&utm_medium=feed&keyword=Analista-comerical-pleno&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3479,7 +3542,7 @@
     "company": "CSG Systems",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6161902__1953_404c2ad65bb96e3c071056279f44017a?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6161902__1953_9aa0b9bd6dbb7d82ca2d11567bb4283a?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3794,7 +3857,7 @@
     "company": "Monetize More Inc",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6185998__1953_df7ffa0e3a32c201c0dec4c561e300f7?utm_source=1953&utm_medium=feed&keyword=Commissioned-Sales-Representative&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6185998__1953_7ebf8c0db8d97d393c9ee3bd3b021700?utm_source=1953&utm_medium=feed&keyword=Commissioned-Sales-Representative&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4082,7 +4145,7 @@
     "company": "SupportYourApp Inc.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6237888__1953_2f6be55c650b52a58964b54457db466f?utm_source=1953&utm_medium=feed&keyword=fluent-Portuguese-Customer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6237888__1953_e21aa123ae961869d4424052328a6fcc?utm_source=1953&utm_medium=feed&keyword=fluent-Portuguese-Customer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4496,7 +4559,7 @@
     "company": "Andriny Jardim Teles",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6411211__1953_2a756cb62e1a94ae03c9a502ee87daa9?utm_source=1953&utm_medium=feed&keyword=Diretor-de-Vendas&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6411211__1953_b55316a0bc5015672f62936c80a5149a?utm_source=1953&utm_medium=feed&keyword=Diretor-de-Vendas&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4847,7 +4910,7 @@
     "company": "Toptal",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6422728__1953_452dcd2d25127a4417a9bd620aa5e3a0?utm_source=1953&utm_medium=feed&keyword=Client-Sales-Representative&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6422728__1953_9dbc3d48dba3c2ce0faa65b91eec9d7c?utm_source=1953&utm_medium=feed&keyword=Client-Sales-Representative&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4856,7 +4919,7 @@
     "company": "EMCD",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6422732__1953_874abbc7abcdd80ad93ec19383f15fb4?utm_source=1953&utm_medium=feed&keyword=Copywriter-translator-Portuguese&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6422732__1953_04b9c493d692c1be0efdc597bb8cd458?utm_source=1953&utm_medium=feed&keyword=Copywriter-translator-Portuguese&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4928,7 +4991,7 @@
     "company": "TRSS",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6425709__1953_5eb21300722a910773e6045b5a2e9f95?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6425709__1953_46b776291ac14190f13765e5fc71eff6?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -4937,7 +5000,7 @@
     "company": "Cache Ventures",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6425718__1953_85eb789e55795ba71bdee855d5edd576?utm_source=1953&utm_medium=feed&keyword=Outbound-Growth-Lead&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6425718__1953_56397b29e97f032c36ef284317bba518?utm_source=1953&utm_medium=feed&keyword=Outbound-Growth-Lead&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5342,7 +5405,7 @@
     "company": "Qualificar TI",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6452717__1953_41e83f9252b4570918be112770960a44?utm_source=1953&utm_medium=feed&keyword=Gerente-de-infraestrutura&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6452717__1953_44e0b803520c75844641cc901570d7e7?utm_source=1953&utm_medium=feed&keyword=Gerente-de-infraestrutura&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5612,7 +5675,7 @@
     "company": "Sophos",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6459151__1953_652eeed776ecd32228cadd37082e64e3?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6459151__1953_0f169ad897425abee301b85c84e71454?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -5801,7 +5864,7 @@
     "company": "Assaí Atacadista",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6465864__1953_18171e0884003fb76dfd9cbc14d8c094?utm_source=1953&utm_medium=feed&keyword=Operador-de-Empilhadeira&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6465864__1953_1031b7c436f67a646c13c17416ac0a55?utm_source=1953&utm_medium=feed&keyword=Operador-de-Empilhadeira&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6044,7 +6107,7 @@
     "company": "InEvent",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6472911__1953_d69e0ca148570357225a5af0a574e262?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6472911__1953_33c62ced388a4ceab2abf90a9af9c665?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6125,7 +6188,7 @@
     "company": "Mova Recrutamento E Desenvolvimento Humano",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6474974__1953_7225f6bad8dded2c0d7afb55cb28078a?utm_source=1953&utm_medium=feed&keyword=Vendedor-energia&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6474974__1953_05601e40fdd87d8f07c9663e92a00fe0?utm_source=1953&utm_medium=feed&keyword=Vendedor-energia&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6503,7 +6566,7 @@
     "company": "tl;dv - AI Meeting Assistant",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6481840__1953_1096901234acfba3db99b948a7a10f09?utm_source=1953&utm_medium=feed&keyword=Brand-Marketing&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6481840__1953_1839889fb01c59430902e21cc612f0e5?utm_source=1953&utm_medium=feed&keyword=Brand-Marketing&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6683,7 +6746,7 @@
     "company": "WK Recursos Humanos",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6486560__1953_7a3771568af1a8e61bc4dab53e8843ca?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-RPA&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6486560__1953_a5899bf29fd4cfa3dba9b372899f914b?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-RPA&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6773,7 +6836,7 @@
     "company": "Turner & Townsend",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6489043__1953_40f6fd9559ad36dc9fc4fcd004adf530?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-Mec%C3%A2nico&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6489043__1953_0780fa4533ab37e66a50232683d3dc7a?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-Mec%C3%A2nico&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6890,7 +6953,7 @@
     "company": "Runtalent",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6531071__1953_d8851003c59b5b3c11b5d07f22bc493a?utm_source=1953&utm_medium=feed&keyword=10006-SAP&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6531071__1953_33f42a3499852d5ceda5743074af9ddb?utm_source=1953&utm_medium=feed&keyword=10006-SAP&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7367,7 +7430,7 @@
     "company": "AgileEngine",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6553942__1953_41bea82810e344258bc258ff55f05df8?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Senior&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6553942__1953_681edd7b097e80080ca25f6f2a17684b?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Senior&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7853,7 +7916,7 @@
     "company": "Neugebauer S/A",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6563477__1953_66a2e15226f76f98015a5e0fd0c4d23a?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6563477__1953_d00cd7d2c789303f3278d1be3323dd5d?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7862,7 +7925,7 @@
     "company": "Magic",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6563550__1953_ea3159fb3183ecdd2f404a413392b0f9?utm_source=1953&utm_medium=feed&keyword=Multimedia-Content-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6563550__1953_3491d67ec1cc334c2da2589351a70d54?utm_source=1953&utm_medium=feed&keyword=Multimedia-Content-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7871,7 +7934,7 @@
     "company": "ambi.careers",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6563571__1953_6abacdb87f691a503328f7e913d40993?utm_source=1953&utm_medium=feed&keyword=Korean-Speaker&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6563571__1953_3d9ab63743cb1893eef0a2a47a6daf8f?utm_source=1953&utm_medium=feed&keyword=Korean-Speaker&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8024,7 +8087,7 @@
     "company": "Thera Consulting",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6567482__1953_eb0a72dad5e6baa6075480003e71964b?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6567482__1953_32a3af28fdc93fab93294254733c87ff?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8618,7 +8681,7 @@
     "company": "AgileEngine",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6591207__1953_3be3fd3d84192b74bc86d76604796662?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Senior&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6591207__1953_9bbc3e9ac560a764b6a4dff454486d7f?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Senior&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8681,7 +8744,7 @@
     "company": "Tauste Supermercados",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6592233__1953_1e2a597a612acc2b319ca7de8d7c4555?utm_source=1953&utm_medium=feed&keyword=GERENTE-DE-SETOR&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6592233__1953_fc356aa2df2112705b564d5b65aee272?utm_source=1953&utm_medium=feed&keyword=GERENTE-DE-SETOR&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8690,7 +8753,7 @@
     "company": "Data Meaning",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6592235__1953_83b9ce86fbaafd976c1450a0927608df?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6592235__1953_2c2f6b9fdc6eec13fcb4930dedac48b2?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8879,7 +8942,7 @@
     "company": "iForAI",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6594100__1953_16377b94ca2159fb05c777d175798f34?utm_source=1953&utm_medium=feed&keyword=Senior-Staff-Founding-Software&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_6594100__1953_4fb0ed5819d032adc1752cb9b5ef4aca?utm_source=1953&utm_medium=feed&keyword=Senior-Staff-Founding-Software&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8934,69 +8997,6 @@
     "city": "Campinas",
     "state": "São Paulo",
     "url": "https://br.whatjobs.com/coopob__cpl___70_6594702__1953?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Senior&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Head of Performance Marketing",
-    "description": "<p><p>Join to apply for the <b>Head of Performance Marketing </b> role at <b>TripleTen Indonesia </b> </p><p><b>Description </b> </p><p>TripleTen is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Web Development, Quality Assurance (QA), Data Analytics and Data Science programs. </p><p>We are looking for a highly skilled Head of Performance Marketing to join our LATAM team. You will lead our performance marketing efforts across paid advertising, influencer partnerships, and user acquisition. You'll manage a specialized team of marketing professionals while working alongside our Head of Content to drive integrated growth strategy through data-driven channel optimization. </p><p><b>What you will do </b> </p><ul><li>Manage and develop specialists across User Acquisition, Influencer Marketing, SEO, Analytics, and Partnership Development </li><li>Drive strategy and optimization for paid advertising channels (Facebook, Google, TikTok, YouTube) </li><li>Scale influencer marketing operations and creator partnerships systematically </li><li>Establish advanced attribution models and performance measurement frameworks </li><li>Optimize marketing spend allocation across channels using data-driven decision making </li><li>Build operational excellence through systematic planning, execution tracking, and team retrospectives </li><li>Collaborate with Head of Content on integrated campaigns and content-performance synergies </li> </ul><p><b>Requirements </b> </p><p>You're a performance marketing expert with: </p><ul><li>4+ years managing performance marketing teams with €5mln+ annual media spend under management </li><li>Deep expertise in paid advertising across major platforms with proven ROI optimization track record </li><li>Hands-on experience scaling influencer marketing programs from startup to systematic operations </li><li>Strong analytical background with multi-touch attribution, incrementality testing, and advanced measurement </li><li>Team leadership experience developing marketing specialists and driving performance improvements </li><li>Product-minded approach to marketing with focus on user journey optimization and lifecycle metrics </li> </ul><p><b>Bonus Points For </b> </p><ul><li>EdTech or online education marketing experience with understanding of long conversion cycles </li><li>Experience managing marketing budgets during economic downturns or budget constraints </li><li>Background building marketing operations and systematic processes from ground up </li><li>SEO strategy integration with paid channels experience </li><li>Partnership marketing and business development collaboration </li> </ul><p>We offer the opportunity to work with significant media budgets and drive measurable business growth through sophisticated marketing operations. </p><p>Equal Employment Opportunity: TripleTen is an equal opportunity employer and welcomes applications from diverse candidates. </p> </p> #J-18808-Ljbffr",
-    "company": "TripleTen Indonesia",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6594812__1953?utm_source=1953&utm_medium=feed&keyword=Head-of-Performance&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Data Scientist",
-    "description": "<p><p>Ambush is a People Company. But what does that mean exactly? It means we care about our people as much as we care about building great products. We take a human-centered approach to identifying, retaining and integrating highly-talented, long-term remote people into America’s best product and development team. </p><p>We began our consulting journey in 2015 and have been growing ever since! We do that by delivering the best quality work possible for our clients. We are not afraid to take risks and we always seek the best possible path to solve a problem, instead of just a quick makeshift solution. Thanks to our highly skilled team of engineers, we always perform tasks using our best abilities! </p><p>We are passionate about what we do everyday and we can always count on our team to have our backs. Teamwork is one of our core values! We don’t go anywhere by ourselves. We are driven to achieve great things. And we are extremely helpful to everyone. We expect you to be a team player. </p><p><b>When you join us, you will: </b> </p><ul><li>Build, validate, and deploy statistical and machine learning models (e.g. anomaly detection, fraud detection, clustering, NLP, generative AI). </li><li>Experiment with advanced techniques (e.g. graph neural networks, LLMs, deep learning) to push the boundaries of what data can deliver. </li><li>Collaborate with engineering, product, and business teams to translate strategic questions into data-driven solutions. </li><li>Contribute to architectural discussions on scalable, production-ready ML systems. </li><li>Share your knowledge with a team of passionate engineers and help foster a culture of agile, data-driven decision-making. </li><li>Use your excellent English skills to communicate daily, both verbally and in writing, in cross-functional teams. </li> </ul><p><b>What we’d like to see in a candidate: </b> </p><ul><li>Strong programming skills in Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch) and SQL. </li><li>Proven experience in Data Science, Data Analysis, or related roles. </li><li>Solid foundation in statistics, data modeling, and applied machine learning. </li><li>Hands-on experience with cloud platforms (AWS preferred: SageMaker, Lambda, RDS, S3). </li><li>Ability to communicate insights clearly to both technical and non-technical stakeholders. </li><li>Experience with version control (Git) and modern development practices. </li><li>Excellent English communication. </li> </ul><p><b>Nice to haves: </b> </p><ul><li>Background in scientific research or advanced studies (MSc/PhD in a quantitative field). </li><li>Experience with LLMs (e.g. GPT, LangChain, Whisper, vector databases) or graph neural networks. </li><li>Proficiency with full-stack or API development (FastAPI, Next.js, etc.) to deliver data products. </li><li>Familiarity with big data tools (Spark, BigQuery, Redshift). </li><li>Exposure to fraud detection, anomaly detection, or other high-impact ML use cases. </li><li>Knowledge of efficient compiled languages (C++, Rust, Scala) for numerical computation. </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Ambush",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6594813__1953?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Data Scientist II / Senior Data Scientist",
-    "description": "<p><p>We are hiring multiple Data Scientists across LATAM to join the Microsoft 365 team. These are remote positions, allowing you to work from the comfort of your home! </p><p>As part of our team, you will help shape one of Microsoft’s fastest-growing cloud services. Your work will directly impact Copilot, enabling personalized, context-aware experiences that empower millions of users across Microsoft 365. </p><p>Do you want to collaborate closely with software engineers, product managers, and researchers to design, implement, and evaluate models and algorithms that continuously adapt and improve based on user interactions and feedback? Do you want to leverage advanced machine learning and information retrieval to predict and optimize memory content selection, representation, and lifecycle management. </p><p>You will work at the forefront of applied AI and machine learning, shaping the future of intelligent productivity tools. You will contribute to a culture of innovation, continuous learning, and experimentation. </p><h3>Responsibilities </h3><ul><li>Develop and evaluate ML models using prepared datasets, customer feedback, and novel training/fine-tuning algorithms for language models. </li><li>Write production-quality code, apply debugging best practices, and stay current with industry trends. </li><li>Drive customer-centric solutions by aligning with business goals and managing stakeholder expectations. </li><li>Collaborate cross-functionally to define success metrics and improve AI quality at scale. </li><li>Lead research projects that yield new algorithms, tools, or insights solving open problems. </li><li>Analyze evaluation outputs to identify gaps in coverage, quality, and usability. </li><li>Design experiments, define metrics, and develop ML pipelines for encoder-decoder and cross-encoder models, semantic search, and user intent understanding. </li><li>Work with large-scale data while championing privacy and compliance. </li><li>Engage with customers and internal teams to identify pain points and drive impactful improvements. </li><li>Stay engaged with the latest research and foster a strong applied science culture. Publishing is encouraged. </li> </ul><h3>Qualifications </h3><ul><li>Bachelor’s degree in Statistics, Econometrics, Computer Science, Electrical/Computer Engineering, or related field. </li><li>4+ years of experience in predictive analytics, statistics, or research. </li><li>Experience with synthetic data generation and data management for evaluation/training. </li><li>At least one year of experience publishing patents or peer-reviewed papers. </li><li>Deep motivation for user-centric AI and interest in human cognition, memory, and AI. </li><li>Global collaboration is integral to our work at Microsoft, and proficiency in English is essential for effective communication in this role. </li> </ul><h3>Preferred Qualifications </h3><ul><li>Master’s degree in Statistics, Econometrics, Computer Science, Electrical/Computer Engineering, or related field. </li><li>Experience with large-scale embedding models and transformer architectures. </li><li>Familiarity with reinforcement learning and distributed computing platforms (e.g., Heron, AML, Euclid). </li><li>Proficient analytical skills and experience with telemetry and performance metrics. </li><li>DevOps experience and cloud services knowledge (Azure preferred). </li><li>Agile development experience and a structured approach to software design. </li> </ul><h3>Interpersonal Skills </h3><ul><li>Growth mindset with resilience and a passion for learning. </li><li>Commitment to diversity, inclusion, and authentic collaboration. </li><li>Effective communication skills with the ability to engage diverse audiences. </li><li>Ownership mindset with the ability to deliver results and manage expectations. </li><li>Self-motivated and collaborative across teams and organizations. </li> </ul><p>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. </p> </p> #J-18808-Ljbffr",
-    "company": "Microsoft",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6594873__1953?utm_source=1953&utm_medium=feed&keyword=Data-Scientist-II&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Talent Acquisition & Client Partner",
-    "description": "<p><h3>About This Opportunity </h3><p>Mundo Gamer Jobs is the career platform within the Mundo Gamer Network ecosystem, created to connect professionals and companies in the gaming industry. With global reach and a highly engaged audience, we offer real job opportunities, talent discovery tools, and strategic visibility for studios, agencies, and game-related companies. We’re now looking for a Talent & Business Consultant to join our team, someone passionate about career mentoring, B2B prospecting, and sourcing talent in a dynamic, tech-driven, and gamer-friendly environment. </p> <h3>Your Responsibilities </h3><ul><li>Provide support to individual users (candidates) and companies (clients) using the Mundo Gamer Jobs platform. </li><li>Screen and assess professional profiles, offering personalized guidance and career matching. </li><li>Actively prospect game studios, publishers, agencies, and gaming-related businesses interested in posting jobs or hiring talent. </li><li>Create and send customized commercial proposals based on client needs. </li><li>Manage the sales pipeline and recruitment cycles using internal tools and CRM systems. </li><li>Maintain a high level of service with empathy, responsiveness, and strategic vision. </li><li>Coordinate with internal teams (Academy, Community, TV, Agency) to offer integrated solutions. </li> </ul> <h3>Required Skills </h3><ul><li>Previous experience in customer success, recruiting, or B2B prospecting. </li><li>Ability to read and match resumes with the right opportunities. </li><li>Excellent communication (written and verbal). </li><li>Proficient with digital tools such as CRM, task managers, and Google Workspace. </li><li>Organizational mindset and the ability to work independently. </li><li>Strong interest in the gaming industry and tech culture. </li> </ul> <h3>Preferred Skills </h3><ul><li>Experience with job platforms, recruitment agencies, or HR Tech. </li><li>Intermediate English or Spanish (or both). </li><li>Understanding of gaming careers (developers, artists, testers, etc.). </li><li>Participation in gaming communities or events. </li> </ul> <h3>What We Offer </h3><ul><li>Work inside the Mundo Gamer Network ecosystem, with access to Academy, TV, Community, and more. </li><li>Visibility in the international gaming market. </li><li>A remote-friendly, flexible, and creative environment. </li><li>Real impact on connecting talents to opportunities in the gaming universe. </li><li>Performance bonuses and project-based incentives. </li> </ul> <h3>Tags </h3><p>Human Resources </p> <h3>Seniority level </h3><p>Entry level </p> <h3>Employment type </h3><p>Full-time </p> <h3>Job function </h3><p>Human Resources </p> <h3>Industries </h3><p>Computer Games </p> </p> #J-18808-Ljbffr",
-    "company": "Mundo Gamer Network",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6594970__1953?utm_source=1953&utm_medium=feed&keyword=Talent-Acquisition&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Endocrinologista",
-    "description": "<p><p>ENDOCRINOLOGISTA, venha construir a nova saúde digital com a Galileu. A saúde está evoluindo e a Galileu Saúde está liderando essa mudança. </p><p>Unimos tecnologia e cuidado humano para oferecer uma experiência de saúde mais acessível, eficiente e centrada no paciente. Se você é ENDOCRINOLOGISTA e acredita na inovação na medicina, temos um espaço para você. </p><p>O que oferecemos? </p><ul><li>Modelo de teleconsulta, com agenda organizada de forma combinada para garantir qualidade no atendimento. </li><li>Remuneração por hora trabalhada, de forma transparente e alinhada à sua produção. </li><li>Ambiente multidisciplinar para oferecer o melhor cuidado ao paciente. </li><li>Capacitação exclusiva em saúde digital, com uma plataforma completa de cursos que abrange desde protocolos clínicos até o uso de ferramentas tecnológicas, ajudando você a ser mais efetivo no cuidado com o paciente. </li><li>Acompanhamento e suporte contínuo, para que você possa focar no que realmente importa: o cuidado com o paciente. </li> </ul><p>Na Galileu, acreditamos que a tecnologia deve potencializar o cuidado médico e fortalecer a conexão entre profissionais e pacientes. Por isso, investimos em inovação, capacitação e um ambiente colaborativo, garantindo que você tenha tudo o que precisa para exercer a medicina digital com excelência e impacto real. </p><p>Se você quer fazer parte do futuro da saúde, venha para a Galileu. </p> </p> #J-18808-Ljbffr",
-    "company": "Galileu",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6595064__1953_b8a0dd7f421e3f366972d4137516b4b4?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "SDR- Pré vendas | Fazzolli",
-    "description": "<p><p><b>Missão </b> </p><p>Você será responsável por realizar o primeiro contato com potenciais clientes, conduzindo uma abordagem eficiente e consultiva para gerar agendamentos qualificados de reuniões online (via Zoom) com nossos Consultores. A partir daí, o time de especialistas realiza a apresentação e a venda dos nossos produtos. </p><p><b>Sobre a empresa e o produto </b> </p><p>Somos líderes no nosso segmento e referência de mercado em mentorias para o nicho de achadinhos. O Fazolli é hoje a maior autoridade nesse mercado, sendo a única empresa de educação com mentoria especializada no setor. </p><p>Nos últimos 6 meses crescemos 5x em faturamento e seguimos em expansão acelerada, construindo um time de alta performance. </p><p>Nossa cultura é baseada em valores cristãos, crescimento contínuo e impacto positivo na vida das pessoas. Trabalhamos em um ambiente colaborativo, saudável e motivador, com muita sede por resultados e propósito. </p><p>Redes sociais: @dyegofazolli </p><p><b>O que oferecemos </b> </p><ul><li>Treinamento completo sobre empresa, produtos e técnicas de vendas </li><li>Estrutura de conversão consolidada para apoiar sua performance </li><li>Scripts de vendas e apresentações técnicas já validadas </li><li>Produtos de alta credibilidade e qualidade reconhecida </li><li>Desenvolvimento pessoal e profissional contínuo </li><li>Bonificações por desempenho </li><li>Remuneração acima da média de mercado e plano de comissões </li><li>Day off no aniversário </li> </ul><p><b>Requisitos </b> </p><ul><li>Notebook e celular próprios. Acesso à internet estável </li><li>Experiência prévia na área comercial ou como Social Seller. Boa comunicação, oratória e domínio do português </li><li>Perfil ensinável, com vontade de aprender e crescer </li><li>Disponibilidade para horário integral </li> </ul><p><b>Principais responsabilidades </b> </p><ul><li>Atender de forma ágil e direcionada os contatos do marketing </li><li>Utilizar técnicas de SPIN Selling para qualificar clientes </li><li>Agendar reuniões online (Zoom) com o time de Closers </li><li>Realizar follow-up de comparecimento e pós-reunião </li><li>Fazer follow-up em caso de não compra </li><li>Solicitar indicações conforme metodologia ensinada </li><li>Executar os procedimentos do processo comercial </li><li>Realizar ligações telefônicas para contato direto com clientes </li> </ul><p><b>Remuneração </b> </p><ul><li>Fixo: R$ 2.000 a R$ 2.800 </li><li>Bônus mensal de acordo com o número de agendamentos </li><li>Comissão de 0,4% sobre vendas finalizadas </li><li>Local: Remoto (com previsão de atuação presencial em Londrina/PR) </li> </ul><p><b>Modelo de contratação </b>: PJ </p><p><b>Regime De Contratação </b> </p><p>Pessoa Jurídica </p><p><b>Departamento </b> </p><p>Comercial </p><h3>Sales Development Representative (SDR) - (Localização: Londrina/PR) </h3><h3>Sdr - Representante De Desenvolvimento De Vendas </h3><h3>Sdr - Representante De Desenvolvimento De Vendas </h3><h3>Sdr - Representante De Desenvolvimento De Vendas </h3><h3>Assistente de Prospecção - SDR (Temporário) </h3> </p> #J-18808-Ljbffr",
-    "company": "Full Sales System",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6595128__1953_b8bc84edc5c93c539b867febba799477?utm_source=1953&utm_medium=feed&keyword=SDR-Pr%C3%A9-vendas&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Endocrinologista",
-    "description": "<p><p>ENDOCRINOLOGISTA, venha construir a nova saúde digital com a Galileu! </p><p>A saúde está evoluindo e a Galileu Saúde está liderando essa mudança. Unimos tecnologia e cuidado humano para oferecer uma experiência de saúde mais acessível, eficiente e centrada no paciente. </p><p>Se você é ENDOCRINOLOGISTA e acredita na inovação na medicina, temos um espaço para você. </p><ul><li>O que oferecemos? </li><li>Modelo de teleconsulta, com agenda organizada de forma combinada para garantir qualidade no atendimento. </li><li>Remuneração por hora trabalhada, de forma transparente e alinhada à sua produção. </li><li>Ambiente multidisciplinar para oferecer o melhor cuidado ao paciente. </li><li>Capacitação exclusiva em saúde digital, com uma plataforma completa de cursos que abrange desde protocolos clínicos até o uso de ferramentas tecnológicas, ajudando você a ser mais efetivo no cuidado com o paciente. </li><li>Acompanhamento e suporte contínuo, para que você possa focar no que realmente importa: o cuidado com o paciente. </li> </ul><p>Na Galileu, acreditamos que a tecnologia deve potencializar o cuidado médico e fortalecer a conexão entre profissionais e pacientes. </p><p>Por isso, investimos em inovação, capacitação e um ambiente colaborativo, garantindo que você tenha tudo o que precisa para exercer a medicina digital com excelência e impacto real. </p><p>Se você quer fazer parte do futuro da saúde, venha para a Galileu! </p><p>Envie Seu Currículo </p><ul><li>WhatsApp:   </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Galileu",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_6595170__1953_b6e7bde3aa92fa68953ed503431548c8?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Campinas&geoID=1713",
     "tipo": ""
   }
 ]
