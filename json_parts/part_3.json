@@ -1,5 +1,32 @@
 [
   {
+    "title": "SR Java Developer",
+    "description": "<p><p>AB InBev is the leading global brewer and one of the world’s top 5 consumer product companies. With over 500 beer brands, we’re number one or two in many of the world’s top beer markets, including North America, Latin America, Europe, Asia, and Africa. </p> <p><b>About AB InBev Growth Group </b> </p> <p>Created in 2022, the Growth Group unifies our business-to-business (B2B), direct-to-consumer (DTC), Sales & Distribution, and Marketing teams. By bringing together global tech and commercial functions, the Growth Group allows us to fully leverage data and drive digital transformation and organic growth for AB InBev around the world. </p> <p>In addition to supporting well known global beer brands like Corona, Budweiser and Michelob Ultra, the Growth Group is home to a robust suite of digital products including our B2B digital commerce platform BEES, on-demand delivery services Ze Delivery and TaDa Delivery, and table top beer keg PerfectDraft. </p> <p>We are an exceptional team, focused on understanding and supporting consumer and customer needs, harnessing new technology, and scaling growth opportunities. </p> <h3>What you’ll do: </h3> <ul> <li>Be part of a cross-functional team, directly contributing to feature development and maintenance of a global product; </li> <li>Partner with colleagues to build and maintain tooling for test development, automation, and release processes improvement; </li> <li>Advocate for the user experience when communicating with product, design, and tech; </li> <li>Follow best development practices to achieve continuous improvement; </li> <li>Provide the team with a quality strategy that supports the team's delivery goals; </li> <li>Be constantly challenged to create world-class solutions. </li>  </ul> <h3>What you’ll need: </h3> <ul> <li>University degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development; </li> <li>Solid fundamentals in object-oriented design, data structures, algorithms and problem solving; </li> <li>Experience with backend with strong skills in Java; </li> <li>Experience with RESTful services and micro-services; </li> <li>Advanced knowledge with Spring Framework (Spring Boot, Spring Security, Spring MVC) or similar; </li> <li>Advanced knowledge in with design patterns and development best practices; </li> <li>Advanced knowledge of software testing concepts (testability, regression, unit, integration, stress, test automation); </li> <li>Experience with DevOps tools such as Kubernetes, Docker, Azure, etc.; </li> <li>Knowledge with RabbitMQ or similar; </li> <li>Knowledge with NewRelic or similar; </li> <li>Experience with CosmoDB /MongoDB </li> <li>Experience with Agile projects. </li> <li>Experience with Python </li> <li>Advanced communication skills in English (written and spoken); </li> <li>Experience with leading teams – differential </li>  </ul> <h3>More about you: </h3> <ul> <li>You´re passionate about software development and knows how to ensure its quality; </li> <li>You´re motivated by building up world class solutions that impacts millions of users all over the world; </li> <li>Experienced working in an environment which uses and stimulates DevOps culture; </li> <li>You´re creative when solving problems and is continuously seeking improvements for processes and solutions; </li> <li>You can communicate clearly with your team and the company to identify issues and demands; </li> <li>You have the autonomy to recognize the current and new priorities, evaluating the impact of their outcomes in the final result. </li>  </ul> <h3>What We Offer: </h3> <ul> <li>Performance based bonus* </li> <li>Attendance Bonus* </li> <li>Casual office and dress code </li> <li>Days off*  </li><li>Health, dental, and life insurance </li> <li>Discounts on Ambev products* </li> <li>School materials assurance </li> <li>Language and training platforms </li>  </ul> <p>ABInBev is committed to creating a diverse and inclusive workforce and culture. We conduct confidential surveys to better understand & ensure we provide equal opportunity throughout our end-to-end recruitment process. Individuals seeking employment at ABInBev are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file. </p> </p> #J-18808-Ljbffr",
+    "company": "AB InBev Growth Group",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9762480__1953?utm_source=1953&utm_medium=feed&keyword=SR-Java-Developer&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Software Engineer ID45371",
+    "description": "<p><p>Join to apply for the <b>Software Engineer ID45371 </b> role at <b>AgileEngine </b> </p> <p>AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people‑first culture has earned us multiple Best Place to Work awards. </p> <h3>Why Join Us </h3> <p>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! </p> <h3>About the Role </h3> <p>Join our ambitious team as a <b>Senior Software Engineer </b> specializing in <b>Data Engineering </b> to develop cutting‑edge trade surveillance technology, protecting investors and ensuring market integrity. You will have a profound impact by designing and scaling robust, highly available data pipelines and microservices, tackling complex data challenges using modern tools. This unique opportunity offers significant influence and professional growth in a dynamic, collaborative environment that values accountability and a self‑starter attitude. </p> <h3>What You Will Do </h3> <ul> <li>Design and develop the data team microservices – Java services running on K8S. </li> <li>Scale our data pipeline to support the processing of billions of events in both low‑latency real‑time and T+1 batch using advanced technologies like Clickhouse, Spark, and Kafka. </li> <li>Tackle data duplication, velocity, schema adherence (and schema versioning), high availability, data governance, and more. </li> <li>Develop and maintain our data pipeline written mostly in Java and running on K8S in a micro‑service architecture. </li> <li>Plan and communicate integrations with other teams that consume the data and use it for insights creation. </li> <li>Ongoing improvement of the way data is stored and served. Improve queries and data formats to make sure the data is optimized for consumption by a variety of clients. </li> <li>Query optimizations in our data warehouses, ensuring data completeness and reliability at scale. </li>  </ul> <h3>Must Haves </h3> <ul> <li><b>BSc. in Computer Sciences from a top university </b>, or equivalent. </li> <li>Strong background as a software engineer with at least <b>3+ years experience with Java </b>. </li> <li>Experience in data engineering and data pipeline development. </li> <li>Proven experience with relational and non‑relational DBs. Expert. Proficient in SQL and query optimizations – preferably in clickhouse. </li> <li>Experience with monitoring systems (either Prometheus, Grafana, Zabbix, Datadog). </li> <li>Experience in object‑oriented development. Should have strong software engineering foundations. </li> <li>Curiosity, ability to work independently and proactively identify solutions. </li> <li>Excellent verbal and written communication skills in a remote environment. </li> <li>Upper‑intermediate English level. </li>  </ul> <h3>Nice to Haves </h3> <ul> <li>Experience working in low‑latency, real‑time systems processing billions of events a day. </li> <li>Experience with data‑engineering cloud technologies as Apache Airflow, K8S, Clickhouse, Snowflake, Redis, Spark, Caching technologies and/or Kafka. </li>  </ul> <h3>Perks and Benefits </h3> <ul> <li><b>Professional growth: </b> Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps. </li> <li><b>Competitive compensation: </b> We match your ever‑growing skills, talent, and contributions with competitive USD‑based compensation and budgets for education, fitness, and team activities. </li> <li><b>A selection of exciting projects: </b> Join projects with modern solutions development and top‑tier clients that include Fortune 500 enterprises and leading product brands. </li> <li><b>Flextime: </b> Tailor your schedule for an optimal work‑life balance, by having the options of working from home and going to the office – whatever makes you the happiest and most productive. </li>  </ul> <h3>Seniority level </h3> <p>Mid‑Senior level </p> <h3>Employment type </h3> <p>Full‑time </p> <h3>Industries </h3> <p>IT Services and IT Consulting </p> <p>Referrals increase your chances of interviewing at AgileEngine by 2x </p> </p> #J-18808-Ljbffr",
+    "company": "AgileEngine",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9762496__1953?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-ID45371&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Engenheiro de Segurança - Trabalho Remoto",
+    "description": "<p><h3>Visão Geral </h3><p>Engenheiro de Segurança - Trabalho Remoto. Join to apply for the Engenheiro de Segurança - Trabalho Remoto role at BairesDev. </p><p>Há mais de 15 anos, a BairesDev é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e startups do Vale do Silício. Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional. </p><h3>Responsabilidades </h3><ul><li>Identificar questões tecnológicas atuais e emergentes, incluindo tendências de segurança, vulnerabilidades e ameaças. </li><li>Desenvolver soluções técnicas e novas ferramentas de segurança para ajudar a mitigar as vulnerabilidades de segurança e automatizar tarefas que podem ser repetidas. </li><li>Projetar arquitetura de segurança de computadores e desenvolver projetos detalhados de segurança cibernética. </li><li>Liderar atividades de resposta a incidentes e investigações sobre como as violações acontecem. </li><li>Fornecer e implementar novas soluções de segurança para melhor proteger a organização. </li><li>Compreender questões técnicas complexas e gerenciá-las dentro de um ambiente de negócios de ritmo acelerado. </li><li>Manutenção de todo o software e hardware em relação à segurança. </li><li>Documentar a certificação de segurança. </li> </ul><h3>Requisitos </h3><ul><li>5+ anos de experiência com segurança de rede e tecnologias de rede e com ferramentas de sistema, segurança e monitoramento de rede. </li><li>Experiência em uma variedade de produtos de segurança, incluindo firewalls, filtragem de URLs, segurança da informação e proteção contra vírus. </li><li>Experiência com proteção e criptografia de dados. </li><li>Experiência com proteção de dados e backups. </li><li>Familiarizado com a escrita, revisão de políticas técnicas. </li><li>Exposição anterior a sistemas operacionais Linux e/ou Windows, idiomas de codificação e/ou redes. </li><li>Nível avançado de inglês. </li> </ul><h3>Benefícios </h3><ul><li>Modalidade 100% remota - trabalhe de qualquer lugar. </li><li>Excelente remuneração em USD ou na sua moeda local, como preferir. </li><li>Hardware para você trabalhar de casa. </li><li>Horários flexíveis - faça seu próprio horário. </li><li>Licença parental remunerada, férias, e feriados nacionais. </li><li>Ambiente de trabalho inovador e multicultural. </li><li>Colabore e aprenda com o Top 1% global dos talentos de cada área. </li><li>Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "BairesDev",
+    "city": "Campinas",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9762667__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Seguran%C3%A7a&location=Campinas&geoID=1713",
+    "tipo": ""
+  },
+  {
     "title": "Técnico de Segurança do Trabalho Pleno",
     "description": "<p><h3>Estamos contratando para: </h3> <p>Técnico de Segurança do Trabalho. </p> <h3>Atividades: </h3> <p>O profissional será responsável por garantir a segurança e a saúde dos colaboradores, implementando e monitorando programas de prevenção de acidentes, treinamentos e a aplicação das Normas Regulamentadoras (NRs) em nosso ambiente de trabalho. </p> <h3>Benefícios: </h3> <ul> <li>Assistência odontológica </li> <li>Assistência médica </li>  </ul> <p>Com 50 anos de história, a Luandre reforça a cada dia seu compromisso e propósito de mudar a vida das pessoas através do emprego, recolocando mais de 1 milhão de profissionais ao longo dos anos. </p> <p>Unindo experiência e inovação, atende as principais empresas nacionais e multinacionais, com soluções personalizadas em Recrutamento e Seleção, Administração de Pessoal, RPO, Middle, Avaliação Profissional e Programas Especiais. </p> <p>Números que representam sua atuação: +30 mil processos seletivos por ano; +60 mil profissionais administrados por ano; +3,5 milhões de currículos cadastrados e mais de 370 colaboradores especializados que amam o que fazem. </p> <p>Através de certificação ISO 9001 e reconhecimentos como TOP OF MIND RH, que nos tornam uma das empresas mais lembradas do segmento de Recursos Humanos, reforçamos o nosso empenho, seriedade e comprometimento com nossos clientes e candidatos. </p> </p> #J-18808-Ljbffr",
     "company": "LUANDRE SERVICOS TEMPORARIOS LTDA. (C-I)",
@@ -374,7 +401,7 @@
     "company": "Grupo Patrimar",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9779136__1953_5ea9ad2dc1c45fafde49ed09033d73e1?utm_source=1953&utm_medium=feed&keyword=ESTAGIARIO-ENGENHARIA-CIVIL&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9779136__1953_17807ff5379989757780ed0dfe3c812a?utm_source=1953&utm_medium=feed&keyword=ESTAGIARIO-ENGENHARIA-CIVIL&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -536,7 +563,7 @@
     "company": "4flow AG",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9787123__1953_2e9454663b7e7f2cde443d81471d1b5a?utm_source=1953&utm_medium=feed&keyword=Software-Developer&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9787123__1953_47c8f1a8c49f9e96211cb9e18cb119f7?utm_source=1953&utm_medium=feed&keyword=Software-Developer&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -545,7 +572,7 @@
     "company": "Carreiras Dutyfree Avolta",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9787176__1953_6a7b712ec55f0f5ddf25b87d35324798?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-Vendas&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9787176__1953_bc8b771eb2ddae5d9d2dd45c8a7ca742?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-Vendas&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1184,7 +1211,7 @@
     "company": "VIKN Partners",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9806705__1953_e566e304f0223450adbf12105d300154?utm_source=1953&utm_medium=feed&keyword=Vaga-de-Est%C3%A1gio&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9806705__1953_6bdb9ac727c916e4857ab2611f962aeb?utm_source=1953&utm_medium=feed&keyword=Vaga-de-Est%C3%A1gio&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1751,7 +1778,7 @@
     "company": "Netvagas",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825577__1953_62b0ec9959fdc0c36f3917144448d2dd?utm_source=1953&utm_medium=feed&keyword=Recepcionista-clinica-shopping&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825577__1953_d06e88b0c48d923ac953a68e06c6523f?utm_source=1953&utm_medium=feed&keyword=Recepcionista-clinica-shopping&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -1760,7 +1787,7 @@
     "company": "Hospital Care",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825595__1953_37cfee0f38d52c5aff3e085d94239661?utm_source=1953&utm_medium=feed&keyword=Analista-de-Infraestrutura&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825595__1953_93197dce026ce9f8f5201d1f5cb8d94c?utm_source=1953&utm_medium=feed&keyword=Analista-de-Infraestrutura&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2210,7 +2237,7 @@
     "company": "Crcsc",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9839889__1953_275e1694bba94ad7ea7dab478abc72ef?utm_source=1953&utm_medium=feed&keyword=Contador-Assistente&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9839889__1953_c1f10d55d4ba4cd680a2f4549e4d3b3c?utm_source=1953&utm_medium=feed&keyword=Contador-Assistente&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2273,7 +2300,7 @@
     "company": "MM Invest AI",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9841078__1953_05952e9f243ba6816ec8ebfc62b9a8de?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recursos&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841078__1953_313a5293277fe3c5b9e95d169a2ac306?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recursos&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -2336,7 +2363,7 @@
     "company": "Grupo Ri Happy",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9842741__1953_f1a61fbb386587bd5159f9448522e657?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9842741__1953_7ca442c75ef515bc442f86a6dd073698?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3128,7 +3155,7 @@
     "company": "AB InBev",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9870376__1953_b5924fe6a5e2ec0bd01b840212cd7066?utm_source=1953&utm_medium=feed&keyword=SAP-Security-Specialist&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9870376__1953_bb0355d22e89c83dc5eeec60cd330ac7?utm_source=1953&utm_medium=feed&keyword=SAP-Security-Specialist&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3218,7 +3245,7 @@
     "company": "Unimed Campinas",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9874944__1953_0c807e6c125dbd4399df01801dc94c33?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-HUC&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9874944__1953_54a907958c930285e52c55aa55fdafc6?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-HUC&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -3605,7 +3632,7 @@
     "company": "Empresa do ramo de empilhadeiras em parceria com Personnallise RH",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9889186__1953_3f8b30e6919d8bc30317d5d8e0dfb918?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Externo-De&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9889186__1953_00a1ada6377ea315c67a51c93f3c66eb?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Externo-De&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6656,7 +6683,7 @@
     "company": "Grupo Ultra",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9970026__1953_9d5f332605c57e35fd17f17e43f23412?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Sistemas&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9970026__1953_32fd064859ff5d2e3bd70a1b91f1f921?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Sistemas&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -6737,7 +6764,7 @@
     "company": "Cooperflora",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9971312__1953_30545dc98da906860f6f19d9a1f49dde?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-COMPRAS&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9971312__1953_ca6e591eeae53f7c100e3fd70bf8a820?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-COMPRAS&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7043,7 +7070,7 @@
     "company": "MAMTECH TECNOLOGIA E SERVICOS S.A.",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9975658__1953_5b6733f4b4552bb88f122bdbf93360eb?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9975658__1953_01612b0ccae1eab46a1a3670ce5beefb?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7160,7 +7187,7 @@
     "company": "Grupo FIT",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9977142__1953_5ab05b3c9ed19831c6cdb4dedee78ee5?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9977142__1953_fe6853ae41728f03efa7d56729501a40?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -7889,7 +7916,7 @@
     "company": "Ernst & Young Advisory Services Sdn Bhd",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9992020__1953_2ebe9e2b45223bd621944196d5817829?utm_source=1953&utm_medium=feed&keyword=Assessor-Senior-de&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9992020__1953_815021e1c4858097692a0f067c414735?utm_source=1953&utm_medium=feed&keyword=Assessor-Senior-de&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8069,7 +8096,7 @@
     "company": "Rede D'Or",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9995377__1953_ac0cab54ff34bf0364f0e894058f8dcf?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9995377__1953_f9ea66c17575110d188bbc220081b779?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8240,7 +8267,7 @@
     "company": "Assertiva S.A",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9999479__1953_0e8cff3297ea235022c559fab3c97a41?utm_source=1953&utm_medium=feed&keyword=Executivo-Vendas-junior&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9999479__1953_12f788f0e1e1ac9b740dc61c06950a65?utm_source=1953&utm_medium=feed&keyword=Executivo-Vendas-junior&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8357,7 +8384,7 @@
     "company": "Unimed Campinas",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10001489__1953_e113eb548f4b1e5ad8c8efd1f261a0ce?utm_source=1953&utm_medium=feed&keyword=Analista-de-Mercado&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10001489__1953_6b36d5ef3625e5c2434d97af30ac6f7f?utm_source=1953&utm_medium=feed&keyword=Analista-de-Mercado&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8708,7 +8735,7 @@
     "company": "Fisia",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10007790__1953_508e21169dd28e9de4f58d071bcfd9bb?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10007790__1953_82a5c702feca1270ac89a46f527ef4b8?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8834,7 +8861,7 @@
     "company": "McDonald's Restaurante - Arcos Dorados",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10009033__1953_4cab5027f8e861d3792f2164ff91773f?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-DE-ATENDENTE&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10009033__1953_01c58cb408db6d07e8fe73d5150532bd?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-DE-ATENDENTE&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8933,7 +8960,7 @@
     "company": "Rede D'Or",
     "city": "Campinas",
     "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10010231__1953_923687863d44b6829c7cb9e307677536?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Enfermagem&location=Campinas&geoID=1713",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10010231__1953_2af0b588b6797ab349e46eb109f3622a?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Enfermagem&location=Campinas&geoID=1713",
     "tipo": ""
   },
   {
@@ -8970,33 +8997,6 @@
     "city": "Campinas",
     "state": "São Paulo",
     "url": "https://br.whatjobs.com/coopob__cpl___70_10010856__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "TELEFONISTA - MATRIZ",
-    "description": "<p><h3>Job description </h3><p>O Grupo Diagmed construiu sua história por meio do pioneirismo e da persistência. Com 30 anos de atuação no mercado, sempre investimos em tecnologia de última geração e em uma equipe de profissionais altamente capacitados, sendo reconhecidos por atender às necessidades individuais de cada paciente com um atendimento único e humanizado. </p><p>Ao longo de nossa trajetória, ampliamos nosso portfólio de exames e proporcionamos diagnósticos precisos em cinco cidades do interior de São Paulo: Campinas, Jundiaí, Indaiatuba, Sumaré e Hortolândia. </p><p>Nossa especialidade é medicina diagnóstica, e nosso propósito é respeitar e cuidar de vidas. </p><h3>Main responsibilities </h3><ul><li>Realizar agendamento telefônico e estabelecer ligações internas e externas (demais unidades); </li><li>Transmitir informações corretamente; </li><li>Prestar e esclarecer dúvidas dos pacientes em relação a preparos, agendamentos, entrega de exames e funcionamento das unidades; </li><li>Interpretar o assunto solicitado, direcionando a ligação ao setor competente ou tratando diretamente com o paciente; </li><li>Executar tarefas de apoio administrativo referentes a central de atendimento, responder e-mails, confirmar agendas, remanejar pacientes devido manutenção ou fechamento de agendas; </li><li>Executar tarefas pertinentes a área de atuação utilizando-se do POP da central de atendimento bem como o material de apoio; </li><li>Demonstrar presteza, atenção, autocontrole, boa vontade, descrição, adequar o tom de voz e principalmente saber ouvir; </li><li>Buscar esclarecimentos com a coordenação ou a supervisão sobre agendamentos de maior complexidade; </li><li>Informar imediatamente qualquer atrito ou informação que considera de gravidade ao coordenador; </li><li>Interagir com outras áreas da empresa que tenham interfaces nos processos de atendimento ao paciente seja por e-mail, telefone ou WhatsApp; </li><li>Atender solicitações e reclamações dos pacientes via telefone; </li><li>Cancelar agendamento ou solicitações do paciente; </li><li>Responder de forma adequada e profissional os pacientes por e-mail; </li><li>Estar disponível para treinamentos de reciclagem periódicos; </li><li>Encaminhar críticas, sugestões ou duudas de paciente de forma clara e empática; </li><li>Garantir a organização da bancada de trabalho bem como utilizar os EPI´s obrigatórios; </li><li>Acompanhar em sistema a fila de ligações garantindo a efetividade do atendimento ao paciente; </li><li>Seguir o manual de normas e condutas da empresa bem como seus valores e cultura organizacional; </li><li>Praticar os scripts e fraseologias padrões do Grupo Diagmed. </li> </ul><h3>Requirements and skills </h3><ul><li>Ensino Médio Completo; </li><li>Experiência com atendimento ao cliente será considerado um diferencial; </li><li>Conhecimentos em Pacote Office; </li><li>Organização; </li><li>Proatividade; </li><li>Boa comunicação. </li> </ul><h3>Additional information </h3><p><b>Benefícios: </b> </p><p>Vale alimentação, Vale Refeição, Assistência Médica, Assistência Odontológica e Total Pass. </p><p><b>Tipo de contratação: </b> </p><p>Contratação CLT, com atuação presencial. </p><p><b>Carga horária e horário de trabalho: </b> </p><p>Segunda á Sexta 11:40 ás 18:00 </p><p>Sábado alternado 06:40 ás 13:00 </p> </p> #J-18808-Ljbffr",
-    "company": "Grupo Diagmed - Unidade: Campinas",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10010883__1953?utm_source=1953&utm_medium=feed&keyword=TELEFONISTA-MATRIZ&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Mecânico de Veículos",
-    "description": "<p><h3>Descrição da vaga </h3><p>Oportunidade para Mecânico de Veículos para BMW em Campinas. </p><h3>Responsabilidades e atribuições </h3><p>Realizar diagnóstico, revisão e manutenção em veículos premium. </p><h3>Requisitos e qualificações </h3><p>Desejável ensino Técnico em Mecânica ou Mecânica Automotiva; </p><p>Experiência em manutenção de veículos; </p><p>Residir em Campinas ou cidades próximas. </p><h3>Informações adicionais </h3><p>A empresa oferece: </p><ul><li>Salário </li><li>Vale Transporte </li><li>Vale Alimentação ou Refeição </li><li>Convênio Médico e Odontológico </li><li>Seguro de Vida </li><li>Wellhub </li><li>Prêmio pelo programa de indicação de candidatos externos </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Eurobike",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10010959__1953?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Ve%C3%ADculos&location=Campinas&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Analista de Suporte Júnior - N1 - Campinas",
-    "description": "<p><p>Pessoa Analista de Suporte </p><p>Mais do que solucionar os problemas de empreendedores, queremos que eles se apaixonem por nós. E manter esse relacionamento é a principal responsabilidade do time de suporte. </p><p>Os profissionais da área de suporte são quem cuida, toma conta de verdade, da base de clientes, ajudando com rapidez e eficiência e garantindo a melhor experiência possível. </p><p>Para trabalhar nesses times, é preciso amar pessoas, aprender rápido, ser organizado, data driven e estar disposto a sempre contribuir para melhorar os processos e a equipe. </p><p>Se interessou? Venha ajudar a gente a criar experiências incríveis! </p><h3>Responsabilidades e Atribuições </h3><ul><li>Prestar suporte técnico de 1º nível aos usuários, garantindo atendimento eficaz e resolução de problemas dentro dos prazos estabelecidos; </li><li>Realizar atendimentos via telefone e chat, assegurando uma comunicação clara, empática e orientada à solução; </li><li>Gerenciar e acompanhar os tickets de atendimento utilizando a plataforma Zendesk, desde a abertura até a resolução final; </li><li>Classificar, priorizar e escalar incidentes conforme a criticidade e impacto no negócio; </li><li>Registrar de forma detalhada as ocorrências e soluções aplicadas para manter a base de conhecimento atualizada; </li><li>Colaborar com outras áreas para resolução de demandas interdependentes e melhoria contínua dos processos de suporte; </li><li>Atuar proativamente na identificação de padrões recorrentes e sugerir melhorias para reduzir incidentes e otimizar o atendimento; </li><li>Manter a organização e controle dos atendimentos em um ambiente de alta demanda. </li> </ul><h3>Requisitos e Qualificações </h3><ul><li>Experiência prévia em atendimento técnico ou suporte ao cliente, preferencialmente em ambientes de alta demanda; </li><li>Domínio da ferramenta Zendesk (ou plataformas similares de gestão de tickets); </li><li>Excelente comunicação verbal e escrita, com foco em clareza e empatia no atendimento; </li><li>Capacidade de análise e resolução de problemas de forma ágil e estruturada; </li><li>Organização e gestão de tempo para lidar com múltiplos atendimentos simultaneamente; </li><li>Ensino técnico ou superior (cursando ou completo) em áreas como Tecnologia da Informação, Sistemas de Informação, ou correlatas; </li><li>Desejável conhecimento básico em redes, sistemas operacionais e ferramentas de acesso remoto; </li><li>Disponibilidade para trabalho em regime híbrido (3x na semana presencial); </li><li>Experiência em imobiliárias poderá ser um diferencial. </li> </ul><h3>Fazendo parte do time, você terá “SuperBenefícios” como: </h3><ul><li>Flexibilidade de horário: <br/>Podemos sempre nos adaptar às mudanças do dia a dia, o importante mesmo é sempre alcançar o objetivo. </li><li>Ajuda de custo para os dias em home office: <br/>A gente dá o suporte necessário para que você possa trabalhar no conforto do seu lar, em dias de home office. </li><li>Ifood Benefícios Flexíveis (VA + VR): <br/>Transformar o mundo dá uma fome, né?! E é claro que o nosso recheado VA e VR não podem ficar de fora dessa missão. </li><li>Plano de saúde e odontológico: <br/>A saúde sempre em primeiro lugar, para você e seus dependentes. </li><li>Apoio aos pais: <br/>Se tornar mãe ou pai é algo espetacular, e queremos participar deste grande momento com você. Por isso, além do auxílio creche, temos também licença-parental (maternidade e paternidade) estendida. </li><li>Saúde e Bem-estar: <br/>Parceria com o Gympass e auxílio farmácia. </li><li>Treinamentos e educação: <br/>Temos parcerias com escolas e universidades e oferecemos treinamentos EaD gratuitos. </li><li>Ambiente que valoriza feedbacks 1:1. </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Superlógica Tecnologias",
-    "city": "Campinas",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10010993__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Campinas&geoID=1713",
     "tipo": ""
   }
 ]
