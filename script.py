@@ -1,154 +1,195 @@
-import requests
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import gzip
-import xml.etree.ElementTree as ET
+import hashlib
 import io
 import json
 import os
-import hashlib
 import random
 import re
+import xml.etree.ElementTree as ET
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
-# URL do feed
-feed_url = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
+import requests
 
-# Pasta JSON
-json_folder = "json_parts"
-os.makedirs(json_folder, exist_ok=True)
+FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
+OUTPUT_FOLDER = "json_parts"
+STATE_FILE = "daily_jobs_state.json"
+MAX_JOBS_PER_DAY = 100
+TIMEZONE = ZoneInfo("America/Sao_Paulo")
 
-file_count = 1
+CIDADES = {"campinas"}
 
-# Cidade alvo
-cidades_desejadas = ["campinas"]
+def normalize(text):
+    return (text or "").strip().lower()
 
-def normalizar(texto):
-    return texto.strip().lower()
+def clean_html(text):
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return re.sub(r"\s+", " ", text).strip()
 
-def gerar_id_unico(titulo, empresa, cidade, url):
-    base = f"{titulo}-{empresa}-{cidade}-{url}"
-    return hashlib.md5(base.encode()).hexdigest()
+def parse_date(value):
+    if not value:
+        return None
+    value = value.strip()
+    formats = (
+        "%d.%m.%Y",
+        "%d/%m/%Y",
+        "%Y-%m-%d",
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M:%SZ",
+        "%Y-%m-%dT%H:%M:%S%z",
+    )
+    for fmt in formats:
+        try:
+            return datetime.strptime(value, fmt)
+        except ValueError:
+            pass
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
 
-def gerar_slug(titulo, cidade):
-    texto = f"{titulo}-{cidade}"
-    texto = texto.lower()
-    texto = re.sub(r"[^\w\s-]", "", texto)
-    texto = re.sub(r"\s+", "-", texto)
-    return texto
+def job_key(job):
+    return job.get("url") or hashlib.md5(
+        f"{job.get('title','')}|{job.get('company','')}|{job.get('city','')}".encode("utf-8")
+    ).hexdigest()
 
-def limpar_html(texto):
-    texto = re.sub(r"<[^>]+>", "", texto)
-    return texto.strip()
+def load_state(today):
+    if not os.path.exists(STATE_FILE):
+        return {}
+    try:
+        with open(STATE_FILE, "r", encoding="utf-8") as f:
+            state = json.load(f)
+        if state.get("date") != today:
+            return {}
+        return state.get("jobs", {})
+    except (OSError, json.JSONDecodeError):
+        return {}
 
-# 🔥 VARIAÇÕES DE INTRO (ANTI-DUPLICAÇÃO)
+def save_state(today, selected):
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"date": today, "jobs": selected}, f, ensure_ascii=False, indent=2)
+
 def gerar_intro(titulo, cidade):
     intros = [
         f"Confira a oportunidade para {titulo} em {cidade}. Veja requisitos e como se candidatar.",
         f"Nova vaga disponível para {titulo} em {cidade}. Saiba mais sobre essa oportunidade.",
-        f"Empresa está contratando {titulo} em {cidade}. Veja detalhes e envie seu currículo."
+        f"Empresa está contratando {titulo} em {cidade}. Veja detalhes e envie seu currículo.",
     ]
     return random.choice(intros)
 
-# Baixar feed
-try:
-    response = requests.get(feed_url, stream=True, timeout=60)
-except requests.exceptions.RequestException as e:
-    print(f"Erro ao baixar o feed: {e}")
-    exit(1)
+def build_job(elem):
+    title = elem.findtext("title", "").strip()
+    description = elem.findtext("description", "").strip()
+    company = elem.findtext("company/name", "").strip() or "Confidencial"
+    url = elem.findtext("urlDeeplink", "").strip() or elem.findtext("link", "").strip()
+    job_type = elem.findtext("jobType", "").strip()
+    location_elem = elem.find("locations/location")
+    city = location_elem.findtext("city", "").strip() if location_elem is not None else elem.findtext("city", "").strip()
+    state = location_elem.findtext("state", "").strip() if location_elem is not None else elem.findtext("state", "").strip()
 
-if response.status_code == 200:
+    pub_raw = elem.findtext("pubdate", "").strip() or elem.findtext("pubDate", "").strip()
+    updated_raw = elem.findtext("updated", "").strip()
+    pub_dt = parse_date(pub_raw)
+    updated_dt = parse_date(updated_raw)
+
+    if not title or not url or not city or not state or not pub_dt:
+        return None
+
+    today = datetime.now(TIMEZONE).date()
+    if pub_dt.date() != today:
+        return None
+
+    if not job_matches(city, title, description):
+        return None
+
+    description = clean_html(description)
+    if True:
+        description = gerar_intro(title, city) + "\n\n" + description
+
+    return {
+        "id": hashlib.md5(f"{title}-{company}-{city}-{url}".encode("utf-8")).hexdigest(),
+        "title": title,
+        "description": description,
+        "company": company,
+        "city": city,
+        "state": state,
+        "url": url,
+        "tipo": job_type,
+        "data_publicacao": pub_dt.date().isoformat(),
+        "data_atualizacao": updated_dt.date().isoformat() if updated_dt else "",
+        "origem": "WhatJobs",
+    }
+
+def job_matches(city, title, description):
+    return normalize(city) in CIDADES
+
+def main():
+    today = datetime.now(TIMEZONE).date().isoformat()
+    print(f"📅 Data de referência: {today}")
+
+    selected = load_state(today)
+
+    print("📥 Baixando feed do WhatJobs...")
+    try:
+        response = requests.get(
+            FEED_URL,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; FeedProcessor/1.0)"},
+            timeout=60,
+        )
+        response.raise_for_status()
+    except requests.RequestException as e:
+        raise SystemExit(f"❌ Erro ao baixar o feed: {e}")
+
+    candidates = {}
+
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
-
-        jobs = []
-        urls_vistas = set()  # evitar duplicados
-
         for event, elem in ET.iterparse(f, events=("end",)):
-            if elem.tag == "job":
+            if elem.tag != "job":
+                continue
+            job = build_job(elem)
+            if job:
+                key = job_key(job)
+                candidates[key] = job
+            elem.clear()
 
-                location_elem = elem.find("locations/location")
-                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
-                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
+    # Atualiza o conteúdo dos jobs que já foram selecionados hoje.
+    for key in list(selected):
+        if key in candidates:
+            selected[key] = candidates[key]
 
-                if not city or not state:
-                    elem.clear()
-                    continue
+    # Completa a cota diária com as vagas mais novas do dia.
+    novos = [
+        job for key, job in candidates.items()
+        if key not in selected
+    ]
+    novos.sort(key=lambda j: (j.get("data_publicacao", ""), j.get("data_atualizacao", "")), reverse=True)
 
-                city_lower = normalizar(city)
+    for job in novos:
+        if len(selected) >= MAX_JOBS_PER_DAY:
+            break
+        selected[job_key(job)] = job
 
-                if city_lower in cidades_desejadas:
+    jobs = list(selected.values())[:MAX_JOBS_PER_DAY]
 
-                    title = elem.findtext("title", "").strip()
-                    description = elem.findtext("description", "").strip()
+    # Um único JSON por execução: no máximo 100 vagas novas por dia,
+    # mantendo as mesmas vagas para atualização a cada 6 horas.
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    for filename in os.listdir(OUTPUT_FOLDER):
+        if filename.endswith(".json"):
+            os.remove(os.path.join(OUTPUT_FOLDER, filename))
 
-                    company = elem.findtext("company/name", "").strip()
-                    if not company:
-                        company = "Confidencial"
+    output_path = os.path.join(OUTPUT_FOLDER, "part_1.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(jobs, f, ensure_ascii=False, indent=2)
 
-                    url = elem.findtext("urlDeeplink", "").strip()
-                    tipo = elem.findtext("jobType", "").strip()
+    save_state(today, selected)
 
-                    # ❌ Evitar duplicados
-                    if url in urls_vistas:
-                        elem.clear()
-                        continue
-                    urls_vistas.add(url)
+    print(f"✅ Vagas encontradas hoje: {len(candidates)}")
+    print(f"✅ Vagas selecionadas na cota do dia: {len(jobs)}")
+    print(f"📄 Gerado: {output_path}")
 
-                    # 🔥 LIMPAR HTML
-                    description = limpar_html(description)
-
-                    # 🔥 INTRO DINÂMICA
-                    intro = gerar_intro(title, city)
-
-                    descricao_final = intro + "\n\n" + description
-
-                    # 🔥 ID ÚNICO
-                    job_id = gerar_id_unico(title, company, city, url)
-
-                    # 🔥 SLUG SEO
-                    slug = gerar_slug(title, city)
-
-                    # 🔥 DATA
-                    data_publicacao = datetime.utcnow().isoformat()
-
-                    job_data = {
-                        "id": job_id,
-                        "title": title,
-                        "slug": slug,
-                        "description": descricao_final,
-                        "company": company,
-                        "city": city,
-                        "state": state,
-                        "url": url,
-                        "tipo": tipo,
-                        "data_publicacao": data_publicacao
-                    }
-
-                    jobs.append(job_data)
-
-                elem.clear()
-
-                # Salvar a cada 1000
-                if len(jobs) >= 1000:
-                    json_path = os.path.join(json_folder, f"part_{file_count}.json")
-
-                    with open(json_path, "w", encoding="utf-8") as json_file:
-                        json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-
-                    print(f"Arquivo salvo: {json_path}")
-
-                    jobs = []
-                    file_count += 1
-
-        # Final
-        if jobs:
-            json_path = os.path.join(json_folder, f"part_{file_count}.json")
-
-            with open(json_path, "w", encoding="utf-8") as json_file:
-                json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-
-            print(f"Arquivo final salvo: {json_path}")
-
-    print(f"JSONs gerados: {os.listdir(json_folder)}")
-
-else:
-    print(f"Erro ao baixar o feed: código HTTP {response.status_code}")
-    exit(1)
+if __name__ == "__main__":
+    main()
