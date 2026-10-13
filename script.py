@@ -1,28 +1,31 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# coding: utf-8
+
+"""Processa o feed WhatJobs e gera até 1.000 vagas salariais do RJ."""
 
 import gzip
 import hashlib
 import io
 import json
-import os
-import random
 import re
+import sys
 import unicodedata
+from datetime import datetime, timezone
+from pathlib import Path
 import xml.etree.ElementTree as ET
-from datetime import datetime
-from zoneinfo import ZoneInfo
 
 import requests
 
 FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
-OUTPUT_FOLDER = "json_parts"
-STATE_FILE = "daily_jobs_state.json"
-MAX_JOBS_PER_DAY = 100
-TIMEZONE = ZoneInfo("America/Sao_Paulo")
+CIDADES_RJ = {
+    "campinas",   
+}
+OUTPUT_FOLDER = Path("json_parts")
+MAX_JOBS = 1000
+REQUEST_TIMEOUT = 90
 
-
-# Extração de remuneração inspirada na validação do repositório rio-de-janeiro.
+# O campo estruturado <salary> é preferido. No fallback, o número precisa
+# aparecer logo após um rótulo salarial explícito, sem varrer a descrição inteira.
 MONEY_NUMBER = (
     r"(?:"
     r"\d{1,3}(?:\.\d{3})+(?:,\d{2})?"
@@ -40,227 +43,218 @@ SALARY_AMOUNT_RE = re.compile(
     re.IGNORECASE,
 )
 
-def normalize_salary_text(text):
+def normalize(text):
+    """Lowercase, remove accents, and collapse whitespace."""
     text = unicodedata.normalize("NFKD", text or "")
     text = "".join(char for char in text if not unicodedata.combining(char))
     return re.sub(r"\s+", " ", text).strip().lower()
 
+
+def clean_html(text):
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def text_at(element, path):
+    return (element.findtext(path) or "").strip()
+
+
+def normalize_company(company):
+    return company.strip() if company and company.strip() else "Confidencial"
+
+
 def has_real_salary(salary):
-    value = normalize_salary_text(salary)
+    """Require a non-placeholder salary with a numeric amount."""
+    value = normalize(salary)
     if not value:
         return False
+
     placeholders = (
-        "a combinar", "nao informado", "nao informada",
-        "nao divulgado", "nao divulgada", "confidencial",
-        "negociavel", "sob consulta", "salario nao informado",
+        "a combinar",
+        "nao informado",
+        "nao informada",
+        "nao divulgado",
+        "nao divulgada",
+        "confidencial",
+        "negociavel",
+        "sob consulta",
+        "salario nao informado",
         "salario a combinar",
     )
     if any(marker in value for marker in placeholders):
         return False
+
+    # WhatJobs specifies salary as an amount plus currency. Reject bare
+    # integer placeholders from the structured field; description-based
+    # numbers are handled only through an explicit salary label below.
     if not re.search(r"\d", value):
         return False
     if not re.search(r"(?:R\$|[$€£])", value) and re.fullmatch(r"\d+", value):
         return False
     return True
 
+
 def extract_salary(structured_salary, description):
-    """Prioriza <salary>; no fallback aceita somente valor ligado a rótulo salarial."""
+    """
+    Use the salary field if it contains an explicit amount. Otherwise accept
+    only an amount immediately associated with an explicit salary label.
+    This intentionally rejects numbers that appear only in benefit sections.
+    """
     structured_salary = re.sub(r"\s+", " ", structured_salary or "").strip()
     if has_real_salary(structured_salary):
         return structured_salary
 
-    text = re.sub(r"<[^>]+>", " ", description or "")
-    text = re.sub(r"\s+", " ", text).strip()
+    text = clean_html(description)
     for match in SALARY_AMOUNT_RE.finditer(text):
         amount = re.sub(r"\s+", " ", match.group("amount")).strip()
         raw_number = re.sub(r"^R\$\s*", "", amount, flags=re.IGNORECASE).strip()
         has_currency = amount.upper().startswith("R$")
+
+        # Without an explicit currency, reject short bare integers that are
+        # likely section numbers (e.g. "Salários oferecidos 2. DOS CARGOS...").
         if not has_currency and re.fullmatch(r"\d{1,2}", raw_number):
             continue
+
         return amount
+
     return ""
 
+def generate_hash(title, company, city, url):
+    base = f"{normalize(title)}|{normalize(company)}|{normalize(city)}|{url.strip()}"
+    return hashlib.sha256(base.encode("utf-8")).hexdigest()
 
-CIDADES = {"campinas"}
 
-def normalize(text):
-    return (text or "").strip().lower()
+def clear_old_parts(folder):
+    folder.mkdir(parents=True, exist_ok=True)
+    for path in folder.glob("part_*.json"):
+        if path.is_file():
+            path.unlink()
 
-def clean_html(text):
-    text = re.sub(r"<[^>]+>", " ", text or "")
-    return re.sub(r"\s+", " ", text).strip()
 
-def parse_date(value):
-    if not value:
-        return None
-    value = value.strip()
-    formats = (
-        "%d.%m.%Y",
-        "%d/%m/%Y",
-        "%Y-%m-%d",
-        "%Y-%m-%dT%H:%M:%S",
-        "%Y-%m-%dT%H:%M:%SZ",
-        "%Y-%m-%dT%H:%M:%S%z",
-    )
-    for fmt in formats:
-        try:
-            return datetime.strptime(value, fmt)
-        except ValueError:
-            pass
-    try:
-        return datetime.fromisoformat(value.replace("Z", "+00:00"))
-    except ValueError:
-        return None
+def write_json(path, data):
+    tmp_path = path.with_suffix(path.suffix + ".tmp")
+    with tmp_path.open("w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=2)
+        file.write("\n")
+    tmp_path.replace(path)
 
-def job_key(job):
-    return job.get("url") or hashlib.md5(
-        f"{job.get('title','')}|{job.get('company','')}|{job.get('city','')}".encode("utf-8")
-    ).hexdigest()
-
-def load_state(today):
-    if not os.path.exists(STATE_FILE):
-        return {}
-    try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            state = json.load(f)
-        if state.get("date") != today:
-            return {}
-        return state.get("jobs", {})
-    except (OSError, json.JSONDecodeError):
-        return {}
-
-def save_state(today, selected):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump({"date": today, "jobs": selected}, f, ensure_ascii=False, indent=2)
-
-def gerar_intro(titulo, cidade):
-    intros = [
-        f"Confira a oportunidade para {titulo} em {cidade}. Veja requisitos e como se candidatar.",
-        f"Nova vaga disponível para {titulo} em {cidade}. Saiba mais sobre essa oportunidade.",
-        f"Empresa está contratando {titulo} em {cidade}. Veja detalhes e envie seu currículo.",
-    ]
-    return random.choice(intros)
-
-def build_job(elem):
-    title = elem.findtext("title", "").strip()
-    description = elem.findtext("description", "").strip()
-    company = elem.findtext("company/name", "").strip() or "Confidencial"
-    url = elem.findtext("urlDeeplink", "").strip() or elem.findtext("link", "").strip()
-    job_type = elem.findtext("jobType", "").strip()
-    source_salary = elem.findtext("salary", "").strip()
-    location_elem = elem.find("locations/location")
-    city = location_elem.findtext("city", "").strip() if location_elem is not None else elem.findtext("city", "").strip()
-    state = location_elem.findtext("state", "").strip() if location_elem is not None else elem.findtext("state", "").strip()
-
-    pub_raw = elem.findtext("pubdate", "").strip() or elem.findtext("pubDate", "").strip()
-    updated_raw = elem.findtext("updated", "").strip()
-    pub_dt = parse_date(pub_raw)
-    updated_dt = parse_date(updated_raw)
-
-    if not title or not url or not city or not state or not pub_dt:
-        return None
-
-    today = datetime.now(TIMEZONE).date()
-    if pub_dt.date() != today:
-        return None
-
-    if not job_matches(city, title, description):
-        return None
-
-    salary = extract_salary(source_salary, description)
-    if not salary:
-        return None
-
-    description = clean_html(description)
-    if True:
-        description = gerar_intro(title, city) + "\n\n" + description
-
-    return {
-        "id": hashlib.md5(f"{title}-{company}-{city}-{url}".encode("utf-8")).hexdigest(),
-        "title": title,
-        "description": description,
-        "company": company,
-        "salary": salary,
-        "city": city,
-        "state": state,
-        "url": url,
-        "tipo": job_type,
-        "data_publicacao": pub_dt.date().isoformat(),
-        "data_atualizacao": updated_dt.date().isoformat() if updated_dt else "",
-        "origem": "WhatJobs",
-    }
-
-def job_matches(city, title, description):
-    return normalize(city) in CIDADES
 
 def main():
-    today = datetime.now(TIMEZONE).date().isoformat()
-    print(f"📅 Data de referência: {today}")
+    clear_old_parts(OUTPUT_FOLDER)
 
-    selected = load_state(today)
-    # Não reutilizar registros antigos sem remuneração validada.
-    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", ""))}
-
-    print("📥 Baixando feed do WhatJobs...")
+    print("Baixando feed WhatJobs...")
     try:
         response = requests.get(
             FEED_URL,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; FeedProcessor/1.0)"},
-            timeout=60,
+            headers={"User-Agent": "SineRJ-FeedProcessor/1.0"},
+            timeout=REQUEST_TIMEOUT,
         )
         response.raise_for_status()
-    except requests.RequestException as e:
-        raise SystemExit(f"❌ Erro ao baixar o feed: {e}")
+    except requests.RequestException as exc:
+        print(f"ERRO ao baixar feed: {exc}", file=sys.stderr)
+        return 1
 
-    candidates = {}
+    jobs = []
+    seen_urls = set()
+    counts = {
+        "xml_lidas": 0,
+        "sem_dados_obrigatorios": 0,
+        "fora_cidades": 0,
+        "estado_incompativel": 0,
+        "sem_salario_valido": 0,
+        "duplicadas": 0,
+    }
 
-    with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
-        for event, elem in ET.iterparse(f, events=("end",)):
-            if elem.tag != "job":
-                continue
-            job = build_job(elem)
-            if job:
-                key = job_key(job)
-                candidates[key] = job
-            elem.clear()
+    try:
+        with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as feed:
+            for _, elem in ET.iterparse(feed, events=("end",)):
+                if elem.tag.split("}")[-1] != "job":
+                    continue
 
-    # Atualiza o conteúdo dos jobs que já foram selecionados hoje.
-    for key in list(selected):
-        if key in candidates:
-            selected[key] = candidates[key]
+                counts["xml_lidas"] += 1
+                title = text_at(elem, "title")
+                description_raw = text_at(elem, "description")
+                company = normalize_company(text_at(elem, "company/name"))
+                job_type = text_at(elem, "jobType")
+                url = text_at(elem, "urlDeeplink")
+                source_salary = text_at(elem, "salary")
 
-    # Completa a cota diária com as vagas mais novas do dia.
-    novos = [
-        job for key, job in candidates.items()
-        if key not in selected
-    ]
-    novos.sort(key=lambda j: (j.get("data_publicacao", ""), j.get("data_atualizacao", "")), reverse=True)
+                location_elem = elem.find("locations/location")
+                city = text_at(location_elem, "city") if location_elem is not None else ""
+                state = text_at(location_elem, "state") if location_elem is not None else ""
 
-    for job in novos:
-        if len(selected) >= MAX_JOBS_PER_DAY:
-            break
-        selected[job_key(job)] = job
+                if not title or not url or not city or not state:
+                    counts["sem_dados_obrigatorios"] += 1
+                    elem.clear()
+                    continue
 
-    jobs = list(selected.values())[:MAX_JOBS_PER_DAY]
+                if normalize(city) not in CIDADES_RJ:
+                    counts["fora_cidades"] += 1
+                    elem.clear()
+                    continue
+
+                state_norm = normalize(state)
+                if state_norm not in {"rj", "são paulo"}:
+                    counts["estado_incompativel"] += 1
+                    elem.clear()
+                    continue
+
+                salary = extract_salary(source_salary, description_raw)
+                if not salary:
+                    counts["sem_salario_valido"] += 1
+                    elem.clear()
+                    continue
+
+                url_key = url.strip().rstrip("/")
+                if url_key in seen_urls:
+                    counts["duplicadas"] += 1
+                    elem.clear()
+                    continue
+                seen_urls.add(url_key)
+
+                job = {
+                    "title": title,
+                    "description": clean_html(description_raw),
+                    "company": company,
+                    "city": city,
+                    "state": state,
+                    "salary": salary,
+                    "tipo": job_type if job_type else "Nao informado",
+                    "origem": "WhatJobs",
+                    "url": url,
+                    "data_publicacao": datetime.now(timezone.utc).isoformat(),
+                    "hash_unico": generate_hash(title, company, city, url),
+                }
+
+                jobs.append(job)
+                elem.clear()
+
+                if len(jobs) >= MAX_JOBS:
+                    break
+
+    except (OSError, EOFError, ET.ParseError) as exc:
+        print(f"ERRO ao interpretar o XML compactado: {exc}", file=sys.stderr)
+        return 1
+
+    output_path = OUTPUT_FOLDER / "part_1.json"
+    write_json(output_path, jobs)
+
+    print("Resumo do processamento:")
+    for name, value in counts.items():
+        print(f"  {name}: {value}")
+    print(f"  exportadas: {len(jobs)}")
+    print(f"Arquivo gerado: {output_path}")
+
+    # Não publicar feed vazio ou silenciosamente incompleto.
     if not jobs:
-        raise SystemExit("ERRO: nenhuma vaga com remuneração válida; os arquivos anteriores serão preservados.")
+        print(
+            "ERRO: nenhuma vaga com salário válido foi encontrada. "
+            "O merged.json e a publicação não serão atualizados.",
+            file=sys.stderr,
+        )
+        return 1
+    return 0
 
-    # Um único JSON por execução: no máximo 100 vagas novas por dia,
-    # mantendo as mesmas vagas para atualização a cada 6 horas.
-    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
-    for filename in os.listdir(OUTPUT_FOLDER):
-        if filename.endswith(".json"):
-            os.remove(os.path.join(OUTPUT_FOLDER, filename))
-
-    output_path = os.path.join(OUTPUT_FOLDER, "part_1.json")
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(jobs, f, ensure_ascii=False, indent=2)
-
-    save_state(today, selected)
-
-    print(f"✅ Vagas encontradas hoje: {len(candidates)}")
-    print(f"✅ Vagas selecionadas na cota do dia: {len(jobs)}")
-    print(f"📄 Gerado: {output_path}")
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
