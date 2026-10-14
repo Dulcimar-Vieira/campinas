@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-"""Processa o feed WhatJobs e gera até 1.000 vagas salariais do RJ."""
+"""Processa o feed WhatJobs e gera até 1.000 vagas salariais de Campinas/SP."""
 
 import gzip
 import hashlib
@@ -17,8 +17,8 @@ import xml.etree.ElementTree as ET
 import requests
 
 FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
-CIDADES_RJ = {
-    "campinas",   
+CIDADES_ALVO = {
+    "campinas",
 }
 OUTPUT_FOLDER = Path("json_parts")
 MAX_JOBS = 1000
@@ -146,7 +146,7 @@ def main():
     try:
         response = requests.get(
             FEED_URL,
-            headers={"User-Agent": "SineRJ-FeedProcessor/1.0"},
+            headers={"User-Agent": "Campinas-FeedProcessor/1.0"},
             timeout=REQUEST_TIMEOUT,
         )
         response.raise_for_status()
@@ -188,13 +188,13 @@ def main():
                     elem.clear()
                     continue
 
-                if normalize(city) not in CIDADES_RJ:
+                if normalize(city) not in CIDADES_ALVO:
                     counts["fora_cidades"] += 1
                     elem.clear()
                     continue
 
                 state_norm = normalize(state)
-                if state_norm not in {"rj", "são paulo"}:
+                if state_norm not in {"sp", "sao paulo"}:
                     counts["estado_incompativel"] += 1
                     elem.clear()
                     continue
